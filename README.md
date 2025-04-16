@@ -83,7 +83,7 @@ source .venv/bin/activate  # Linux/Mac
 
 3. 安装依赖
 ```bash
-pip install -r requirements.txt
+pip install -r django==4.2.7 pandas==2.0.3 matplotlib==3.7.2 mysqlclient==2.2.0 openpyxl==3.1.2
 ```
 
 4. 数据库迁移
