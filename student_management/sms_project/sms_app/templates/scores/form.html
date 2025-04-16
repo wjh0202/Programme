@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+
+{% block title %}{% if form.instance.pk %}编辑成绩{% else %}添加成绩{% endif %}{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">
+                {% if form.instance.pk %}编辑成绩{% else %}添加成绩{% endif %}
+            </h6>
+        </div>
+        <div class="card-body">
+            {% crispy form %}
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    $(document).ready(function() {
+        // 添加输入验证
+        $('input[type="number"]').on('input', function() {
+            var value = parseFloat($(this).val());
+            if (value < 0) {
+                $(this).val(0);
+            } else if (value > 100) {
+                $(this).val(100);
+            }
+        });
+
+        // 自动计算总成绩
+        function calculateTotal() {
+            var regular = parseFloat($('#id_RegularGrade').val()) || 0;
+            var midterm = parseFloat($('#id_MidtermGrade').val()) || 0;
+            var final = parseFloat($('#id_FinalGrade').val()) || 0;
+            var total = (regular * 0.3 + midterm * 0.3 + final * 0.4).toFixed(1);
+            $('#total-grade').text('总成绩: ' + total);
+        }
+
+        $('#id_RegularGrade, #id_MidtermGrade, #id_FinalGrade').on('input', calculateTotal);
+    });
+</script>
+{% endblock %} 
