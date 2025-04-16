@@ -1,0 +1,2018 @@
+INFO 2025-04-15 23:40:32,944 autoreload 21000 10304 Watching for file changes with StatReloader
+INFO 2025-04-15 23:41:28,031 autoreload 21000 10304 D:\py_code\student_management\sms_project\sms_project\urls.py changed, reloading.
+INFO 2025-04-15 23:41:28,472 autoreload 18176 11992 Watching for file changes with StatReloader
+INFO 2025-04-15 23:41:29,635 autoreload 18176 11992 D:\py_code\student_management\sms_project\sms_project\urls.py changed, reloading.
+INFO 2025-04-15 23:41:30,056 autoreload 21100 1540 Watching for file changes with StatReloader
+INFO 2025-04-15 23:41:37,880 autoreload 24436 21136 Watching for file changes with StatReloader
+INFO 2025-04-15 23:41:41,600 basehttp 24436 21840 "GET /students/ HTTP/1.1" 302 0
+WARNING 2025-04-15 23:41:41,611 log 24436 21840 Not Found: /accounts/login/
+WARNING 2025-04-15 23:41:41,612 basehttp 24436 21840 "GET /accounts/login/?next=/students/ HTTP/1.1" 404 3782
+WARNING 2025-04-15 23:41:42,953 log 24436 21840 Not Found: /accounts/login/
+WARNING 2025-04-15 23:41:42,954 basehttp 24436 21840 "GET /accounts/login/?next=/students/ HTTP/1.1" 404 3782
+WARNING 2025-04-15 23:41:43,496 log 24436 21840 Not Found: /accounts/login/
+WARNING 2025-04-15 23:41:43,497 basehttp 24436 21840 "GET /accounts/login/?next=/students/ HTTP/1.1" 404 3782
+WARNING 2025-04-15 23:41:43,744 log 24436 21840 Not Found: /accounts/login/
+WARNING 2025-04-15 23:41:43,745 basehttp 24436 21840 "GET /accounts/login/?next=/students/ HTTP/1.1" 404 3782
+INFO 2025-04-15 23:41:50,927 basehttp 24436 21840 "GET /students/ HTTP/1.1" 302 0
+WARNING 2025-04-15 23:41:50,937 log 24436 21840 Not Found: /accounts/login/
+WARNING 2025-04-15 23:41:50,937 basehttp 24436 21840 "GET /accounts/login/?next=/students/ HTTP/1.1" 404 3782
+INFO 2025-04-15 23:42:38,313 autoreload 24436 21136 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-15 23:42:38,765 autoreload 13912 10804 Watching for file changes with StatReloader
+INFO 2025-04-15 23:42:53,186 autoreload 13912 10804 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-15 23:42:53,624 autoreload 2804 4656 Watching for file changes with StatReloader
+WARNING 2025-04-15 23:42:56,659 log 2804 18524 Not Found: /accounts/login/
+WARNING 2025-04-15 23:42:56,659 basehttp 2804 18524 "GET /accounts/login/?next=/students/ HTTP/1.1" 404 3782
+WARNING 2025-04-15 23:42:57,548 log 2804 18524 Not Found: /accounts/login/
+WARNING 2025-04-15 23:42:57,548 basehttp 2804 18524 "GET /accounts/login/?next=/students/ HTTP/1.1" 404 3782
+WARNING 2025-04-15 23:42:58,156 log 2804 18524 Not Found: /accounts/login/
+WARNING 2025-04-15 23:42:58,156 basehttp 2804 18524 "GET /accounts/login/?next=/students/ HTTP/1.1" 404 3782
+INFO 2025-04-15 23:43:19,354 basehttp 2804 18524 "GET /students/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,361 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,367 basehttp 2804 18524 "GET /login/?next=/students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,368 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,377 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,379 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,384 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,389 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,389 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,396 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,396 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,402 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,406 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,411 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,411 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,417 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,423 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,423 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,425 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,432 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,432 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,439 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,444 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,445 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,448 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,455 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,456 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:19,460 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:19,464 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:19,464 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,500 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,502 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,507 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,512 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,513 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,518 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,523 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,524 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,529 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,534 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,535 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,540 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,544 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,545 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,551 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,556 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,558 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,563 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,569 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,570 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,575 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,581 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,582 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,587 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,593 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,594 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,599 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:20,604 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:20,605 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:20,610 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,875 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,880 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,880 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,887 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,890 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,890 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,894 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,902 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,903 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,908 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,909 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,909 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,917 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,921 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,922 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,926 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,928 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,928 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,936 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,943 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,944 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,950 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,956 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,957 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,961 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,965 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,966 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:21,971 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:21,977 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:21,977 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,518 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,520 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,525 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,531 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,532 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,532 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,539 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,539 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,548 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,554 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,554 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,560 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,566 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,567 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,572 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,578 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,578 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,582 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,587 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,589 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,593 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,597 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,597 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,605 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,609 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,610 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,615 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:22,617 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:22,622 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:22,626 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,159 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,163 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,163 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,171 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,175 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,175 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,183 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,188 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,189 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,195 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,197 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,202 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,207 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,212 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,214 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,216 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,216 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,223 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,229 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,233 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,233 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,236 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,243 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,244 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,250 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,254 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,254 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:23,260 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:23,264 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:23,265 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,099 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,101 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,105 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,110 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,110 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,117 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,117 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,117 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,127 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,133 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,133 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,140 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,144 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,146 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,150 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,151 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,151 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,161 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,167 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,168 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,173 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,173 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,180 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,185 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,187 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,187 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,196 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:24,203 views 2804 18524 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:24,204 basehttp 2804 18524 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:24,209 basehttp 2804 18524 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:29,693 autoreload 21860 15180 Watching for file changes with StatReloader
+INFO 2025-04-15 23:43:37,438 basehttp 21860 20592 "GET /students/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,455 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,456 basehttp 21860 20592 "GET /login/?next=/students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,461 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,466 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,466 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,466 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,476 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,476 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,481 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,484 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,485 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,488 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,492 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,493 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,497 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,502 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,502 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,505 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,505 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,505 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,515 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,521 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,521 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,525 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,528 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,528 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:37,531 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:37,531 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:37,539 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,572 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,574 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,579 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,585 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,586 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,589 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,596 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,598 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,603 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,603 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,610 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,610 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,619 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,620 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,626 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,630 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,630 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,634 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,642 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,643 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,648 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,651 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,651 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,658 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,662 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,663 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,667 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:38,672 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:38,673 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:38,676 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,714 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,719 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,723 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,724 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,732 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,732 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,739 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,744 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,745 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,751 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,755 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,757 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,761 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,764 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,764 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,772 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,772 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,778 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,783 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,787 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,787 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,795 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,800 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,800 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,806 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,810 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,813 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:40,818 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:40,824 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:40,825 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,348 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,348 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,348 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,363 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,364 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,368 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,374 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,375 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,380 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,380 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,387 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,387 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,396 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,397 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,402 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,406 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,407 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,410 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,417 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,417 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,423 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,428 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,428 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,428 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,440 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,441 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,443 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:43:41,451 views 21860 20592 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:43:41,451 basehttp 21860 20592 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:43:41,459 basehttp 21860 20592 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:32,961 autoreload 2652 23840 Watching for file changes with StatReloader
+INFO 2025-04-15 23:44:34,259 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,267 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,267 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,275 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,277 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,277 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,277 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,292 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,292 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,300 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,304 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,304 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,313 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,319 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,320 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,325 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,329 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,329 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,335 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,339 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,340 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,345 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,348 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,348 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,356 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,357 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,357 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:34,366 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:34,371 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:34,372 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,406 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,411 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,417 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,421 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,422 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,427 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,434 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,434 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,439 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,443 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,444 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,449 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,453 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,454 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,458 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,463 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,464 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,469 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,474 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,474 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,479 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,483 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,484 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,489 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,495 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,496 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,500 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:35,505 views 2652 7608 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:35,505 basehttp 2652 7608 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:35,510 basehttp 2652 7608 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:43,727 autoreload 3048 21804 Watching for file changes with StatReloader
+INFO 2025-04-15 23:44:45,699 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,726 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,727 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,730 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,738 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,738 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,743 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,748 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,748 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,754 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,761 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,761 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,767 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,780 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,780 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,792 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,792 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,792 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,804 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,808 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,809 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,814 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,818 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,819 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,820 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,829 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,830 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:45,834 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:45,838 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:45,839 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,876 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,877 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,882 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,887 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,887 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,892 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,897 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,898 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,903 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,907 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,908 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,913 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,917 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,918 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,924 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,928 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,929 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,933 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,938 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,938 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,943 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,948 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,949 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,954 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,958 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,959 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,964 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:46,969 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:46,970 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:46,975 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,003 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,013 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,014 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,018 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,019 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,019 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,030 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,033 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,033 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,040 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,046 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,048 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,052 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,056 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,057 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,060 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,067 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,067 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,067 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,078 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,079 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,084 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,089 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,090 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,095 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,095 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,102 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:52,102 basehttp 3048 22708 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:52,111 views 3048 22708 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:52,111 basehttp 3048 22708 "GET /login/?next=/ HTTP/1.1" 302 0
+WARNING 2025-04-15 23:44:53,500 log 3048 22708 Not Found: /students2
+WARNING 2025-04-15 23:44:53,500 basehttp 3048 22708 "GET /students2 HTTP/1.1" 404 3748
+WARNING 2025-04-15 23:44:53,590 log 3048 22708 Not Found: /favicon.ico
+WARNING 2025-04-15 23:44:53,591 basehttp 3048 22708 "GET /favicon.ico HTTP/1.1" 404 3754
+INFO 2025-04-15 23:44:56,939 basehttp 3048 22708 "GET /students HTTP/1.1" 301 0
+INFO 2025-04-15 23:44:56,947 basehttp 3048 2024 "GET /students/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:56,953 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:56,953 basehttp 3048 2024 "GET /login/?next=/students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:56,959 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:56,961 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:56,961 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:56,969 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:56,973 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:56,973 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:56,973 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:56,983 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:56,983 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:56,988 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:56,988 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:56,994 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:56,994 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:57,002 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:57,002 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:57,009 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:57,011 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:57,015 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:57,019 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:57,024 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:57,024 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:57,031 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:57,035 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:57,036 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:57,040 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,071 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,079 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,080 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,085 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,091 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,092 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,097 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,098 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,098 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,107 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,111 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,113 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,118 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,122 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,123 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,125 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,132 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,132 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,132 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,143 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,144 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,149 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,155 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,156 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,160 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,160 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,167 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:44:58,167 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:44:58,176 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:44:58,177 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,217 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,218 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,222 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,229 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,230 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,234 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,239 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,240 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,245 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,248 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,251 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,252 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,260 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,261 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,267 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,272 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,273 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,280 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,284 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,286 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,292 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,293 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,293 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,302 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,304 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,307 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,312 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+ERROR 2025-04-15 23:45:03,316 views 3048 2024 Error in user_login: Reverse for 'enter_score' not found. 'enter_score' is not a valid view function or pattern name.
+INFO 2025-04-15 23:45:03,316 basehttp 3048 2024 "GET /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:03,323 basehttp 3048 2024 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:04,656 basehttp 3048 2024 "GET /admin HTTP/1.1" 301 0
+INFO 2025-04-15 23:45:04,663 basehttp 3048 19584 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:45:04,697 basehttp 3048 19584 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 9027
+INFO 2025-04-15 23:45:04,729 basehttp 3048 19584 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2025-04-15 23:45:04,738 basehttp 3048 21648 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2025-04-15 23:45:04,745 basehttp 3048 19584 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2025-04-15 23:45:04,746 basehttp 3048 21648 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2025-04-15 23:45:04,746 basehttp 3048 8684 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2025-04-15 23:45:04,754 basehttp 3048 21648 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-15 23:45:04,754 basehttp 3048 8684 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2025-04-15 23:45:04,763 basehttp 3048 8684 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2025-04-15 23:45:04,763 basehttp 3048 24556 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2025-04-15 23:45:04,764 basehttp 3048 22472 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-15 23:46:23,129 basehttp 3048 19576 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:23,135 basehttp 3048 19576 "GET /login/?next=/ HTTP/1.1" 200 4278
+WARNING 2025-04-15 23:46:25,316 log 3048 19576 Not Found: /favicon.ico
+WARNING 2025-04-15 23:46:25,316 basehttp 3048 19576 "GET /favicon.ico HTTP/1.1" 404 3754
+INFO 2025-04-15 23:46:26,402 basehttp 3048 19576 "GET /students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:26,403 basehttp 3048 19576 "GET /login/?next=/students/ HTTP/1.1" 200 4278
+INFO 2025-04-15 23:46:27,725 basehttp 3048 19576 "GET /scores/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:27,733 basehttp 3048 19576 "GET /login/?next=/scores/ HTTP/1.1" 200 4278
+INFO 2025-04-15 23:46:28,459 basehttp 3048 19576 "GET /students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:28,467 basehttp 3048 19576 "GET /login/?next=/students/ HTTP/1.1" 200 4278
+INFO 2025-04-15 23:46:28,603 basehttp 3048 19576 "GET /students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:28,608 basehttp 3048 19576 "GET /login/?next=/students/ HTTP/1.1" 200 4278
+INFO 2025-04-15 23:46:29,055 basehttp 3048 19576 "GET /students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:29,065 basehttp 3048 19576 "GET /login/?next=/students/ HTTP/1.1" 200 4278
+INFO 2025-04-15 23:46:29,190 basehttp 3048 19576 "GET /students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:29,196 basehttp 3048 19576 "GET /login/?next=/students/ HTTP/1.1" 200 4278
+ERROR 2025-04-15 23:46:33,337 views 3048 19576 Error in user_login: __init__() got an unexpected keyword argument 'CLIENT_CLASS'
+INFO 2025-04-15 23:46:33,337 basehttp 3048 19576 "POST /login/?next=/students/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:33,347 basehttp 3048 19576 "GET / HTTP/1.1" 302 0
+INFO 2025-04-15 23:46:33,349 basehttp 3048 19576 "GET /login/?next=/ HTTP/1.1" 200 4598
+WARNING 2025-04-15 23:47:03,176 log 3048 19576 Not Found: /ladmin
+WARNING 2025-04-15 23:47:03,176 basehttp 3048 19576 "GET /ladmin HTTP/1.1" 404 3739
+INFO 2025-04-15 23:47:06,877 basehttp 3048 19576 "GET /admin HTTP/1.1" 301 0
+INFO 2025-04-15 23:47:06,883 basehttp 3048 22960 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:47:06,903 basehttp 3048 22960 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4195
+INFO 2025-04-15 23:47:06,927 basehttp 3048 9628 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2025-04-15 23:47:06,927 basehttp 3048 22960 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2025-04-15 23:47:06,928 basehttp 3048 9628 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2025-04-15 23:47:06,931 basehttp 3048 22960 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2025-04-15 23:47:06,934 basehttp 3048 9628 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2025-04-15 23:47:06,935 basehttp 3048 22960 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2025-04-15 23:47:06,936 basehttp 3048 9628 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-15 23:47:07,253 basehttp 3048 24676 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2025-04-15 23:47:07,255 basehttp 3048 19004 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+ERROR 2025-04-15 23:47:10,905 log 3048 9628 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 1415, in get_connection
+    connection = self._available_connections.pop()
+IndexError: pop from empty list
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\redis.py", line 210, in has_key
+    return self._cache.has_key(key)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\redis.py", line 130, in has_key
+    return bool(client.exists(key))
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\commands\core.py", line 1729, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 1417, in get_connection
+    connection = self.make_connection()
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 1463, in make_connection
+    return self.connection_class(**self.connection_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 684, in __init__
+    super().__init__(**kwargs)
+TypeError: __init__() got an unexpected keyword argument 'CLIENT_CLASS'
+ERROR 2025-04-15 23:47:10,912 basehttp 3048 9628 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 195084
+INFO 2025-04-15 23:47:26,998 autoreload 3048 21804 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-15 23:47:27,484 autoreload 6952 3824 Watching for file changes with StatReloader
+INFO 2025-04-15 23:47:28,690 autoreload 6952 3824 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-15 23:47:29,196 autoreload 13632 15556 Watching for file changes with StatReloader
+ERROR 2025-04-15 23:47:39,524 log 13632 21800 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\module_loading.py", line 16, in cached_import
+    return getattr(module, class_name)
+AttributeError: module 'redis.connection' has no attribute 'HiredisParser'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 138, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 664, in has_key
+    client = self.get_client(write=False)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 105, in get_client
+    self._clients[index] = self.connect(index)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 118, in connect
+    return self.connection_factory.connect(self._server[index])
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\pool.py", line 70, in connect
+    params = self.make_connection_params(url)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\pool.py", line 42, in make_connection_params
+    "parser_class": self.get_parser_cls(),
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\pool.py", line 99, in get_parser_cls
+    return import_string(cls)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\module_loading.py", line 32, in import_string
+    raise ImportError(
+ImportError: Module "redis.connection" does not define a "HiredisParser" attribute/class
+ERROR 2025-04-15 23:47:39,524 basehttp 13632 21800 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 202251
+INFO 2025-04-15 23:47:56,955 autoreload 13632 15556 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-15 23:47:57,418 autoreload 10476 7328 Watching for file changes with StatReloader
+INFO 2025-04-15 23:47:58,628 autoreload 10476 7328 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-15 23:47:59,074 autoreload 11864 5800 Watching for file changes with StatReloader
+ERROR 2025-04-15 23:48:06,915 log 11864 5532 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 138, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 670, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 668, in has_key
+    return client.exists(key) == 1
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\commands\core.py", line 1729, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2025-04-15 23:48:06,937 basehttp 11864 5532 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 200020
+INFO 2025-04-15 23:48:22,532 autoreload 3940 19268 Watching for file changes with StatReloader
+ERROR 2025-04-15 23:48:28,548 log 3940 21020 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 138, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 670, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 668, in has_key
+    return client.exists(key) == 1
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\commands\core.py", line 1729, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2025-04-15 23:48:28,555 basehttp 3940 21020 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 200020
+INFO 2025-04-15 23:49:11,049 autoreload 18736 20792 Watching for file changes with StatReloader
+ERROR 2025-04-15 23:49:20,945 log 18736 15332 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 138, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 670, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\sites.py", line 441, in login
+    return LoginView.as_view(**defaults)(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 90, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\views.py", line 109, in form_valid
+    auth_login(self.request, form.get_user())
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 304, in cycle_key
+    self.create()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\sessions\backends\cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\py_code\student_management\.venv\lib\site-packages\django_redis\client\default.py", line 668, in has_key
+    return client.exists(key) == 1
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\commands\core.py", line 1729, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+  File "D:\py_code\student_management\.venv\lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. 由于目标计算机积极拒绝，无法连接。.
+ERROR 2025-04-15 23:49:20,949 basehttp 18736 15332 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 200020
+INFO 2025-04-15 23:50:00,557 autoreload 18736 20792 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-15 23:50:01,019 autoreload 20852 13872 Watching for file changes with StatReloader
+INFO 2025-04-15 23:50:18,534 autoreload 20852 13872 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-15 23:50:18,996 autoreload 8456 1748 Watching for file changes with StatReloader
+INFO 2025-04-15 23:50:25,560 basehttp 8456 2888 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:50:25,590 basehttp 8456 2888 "GET /admin/ HTTP/1.1" 200 7527
+INFO 2025-04-15 23:50:25,600 basehttp 8456 2888 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-04-15 23:50:25,624 basehttp 8456 20372 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-04-15 23:50:25,624 basehttp 8456 2888 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-04-15 23:50:32,208 basehttp 8456 20372 "GET /admin/sms_app/student/add/ HTTP/1.1" 200 15417
+INFO 2025-04-15 23:50:32,230 basehttp 8456 20372 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2025-04-15 23:50:32,234 basehttp 8456 20372 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2025-04-15 23:50:32,244 basehttp 8456 2888 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:50:32,245 basehttp 8456 20372 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2025-04-15 23:50:32,248 basehttp 8456 2888 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-15 23:50:32,249 basehttp 8456 20372 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-04-15 23:50:32,250 basehttp 8456 13092 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2025-04-15 23:50:32,254 basehttp 8456 13092 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2025-04-15 23:50:32,255 basehttp 8456 2888 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2025-04-15 23:50:32,255 basehttp 8456 20372 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2025-04-15 23:50:32,258 basehttp 8456 2888 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-15 23:50:32,258 basehttp 8456 13092 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-15 23:50:32,264 basehttp 8456 2888 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-04-15 23:50:32,265 basehttp 8456 13092 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-04-15 23:50:32,267 basehttp 8456 20372 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2025-04-15 23:50:32,269 basehttp 8456 20372 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-04-15 23:50:32,290 basehttp 8456 20372 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-04-15 23:50:32,555 basehttp 8456 23288 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2025-04-15 23:50:32,555 basehttp 8456 23704 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-15 23:50:32,560 basehttp 8456 17936 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:50:32,560 basehttp 8456 23288 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2025-04-15 23:50:32,560 basehttp 8456 1096 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-04-15 23:50:32,560 basehttp 8456 23704 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2025-04-15 23:50:32,560 basehttp 8456 23144 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2025-04-15 23:50:32,568 basehttp 8456 17936 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-15 23:50:32,569 basehttp 8456 23288 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-15 23:50:32,569 basehttp 8456 1096 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-04-15 23:50:32,571 basehttp 8456 23144 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-04-15 23:50:32,571 basehttp 8456 1620 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2025-04-15 23:50:32,571 basehttp 8456 23704 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2025-04-15 23:50:38,397 basehttp 8456 20372 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-15 23:50:38,420 basehttp 8456 20372 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2025-04-15 23:50:38,424 basehttp 8456 2888 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-04-15 23:50:38,427 basehttp 8456 8584 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-04-15 23:50:38,432 basehttp 8456 13092 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:50:38,432 basehttp 8456 2888 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-04-15 23:50:38,442 basehttp 8456 23704 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-04-15 23:50:38,449 basehttp 8456 2888 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-04-15 23:50:38,449 basehttp 8456 1620 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:50:38,449 basehttp 8456 13092 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2025-04-15 23:50:48,104 basehttp 8456 2888 "GET /admin/auth/user/add/ HTTP/1.1" 200 11475
+INFO 2025-04-15 23:50:48,132 basehttp 8456 2888 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:50:48,147 basehttp 8456 1620 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:51:03,736 basehttp 8456 2888 "POST /admin/auth/user/add/ HTTP/1.1" 200 11692
+INFO 2025-04-15 23:51:03,770 basehttp 8456 2888 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:51:03,781 basehttp 8456 1620 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:51:23,296 basehttp 8456 2888 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:51:23,346 basehttp 8456 2888 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22506
+INFO 2025-04-15 23:51:23,374 basehttp 8456 2888 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2025-04-15 23:51:23,374 basehttp 8456 8584 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2025-04-15 23:51:23,380 basehttp 8456 13092 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:51:23,382 basehttp 8456 1620 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2025-04-15 23:51:23,384 basehttp 8456 23704 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2025-04-15 23:51:23,417 basehttp 8456 2888 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2025-04-15 23:51:23,417 basehttp 8456 20372 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-04-15 23:51:23,418 basehttp 8456 13092 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2025-04-15 23:51:23,418 basehttp 8456 8584 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2025-04-15 23:51:37,538 basehttp 8456 8584 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-15 23:51:40,642 views 8456 8584 User admin logged out
+INFO 2025-04-15 23:51:40,648 basehttp 8456 8584 "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:51:40,653 basehttp 8456 8584 "GET /login/ HTTP/1.1" 200 4278
+INFO 2025-04-15 23:51:48,389 views 8456 8584 User cx logged in successfully
+INFO 2025-04-15 23:51:48,391 basehttp 8456 8584 "POST /login/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:51:48,439 log 8456 8584 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'sms_app_student.Phone' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 82, in get_context_data
+    cache.set(cache_key, stats, 300)  # 缓存5分钟
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\locmem.py", line 53, in set
+    pickled = pickle.dumps(value, self.pickle_protocol)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 351, in __getstate__
+    self._fetch_all()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'sms_app_student.Phone' in 'field list'")
+ERROR 2025-04-15 23:51:48,449 basehttp 8456 8584 "GET / HTTP/1.1" 500 179571
+WARNING 2025-04-15 23:52:15,101 log 8456 8584 Forbidden (CSRF token from POST incorrect.): /login/
+WARNING 2025-04-15 23:52:15,105 basehttp 8456 8584 "POST /login/ HTTP/1.1" 403 2513
+WARNING 2025-04-15 23:52:20,121 log 8456 8584 Forbidden (CSRF token from POST incorrect.): /login/
+WARNING 2025-04-15 23:52:20,122 basehttp 8456 8584 "POST /login/ HTTP/1.1" 403 2513
+ERROR 2025-04-15 23:52:23,800 log 8456 8584 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'sms_app_student.Phone' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 82, in get_context_data
+    cache.set(cache_key, stats, 300)  # 缓存5分钟
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\locmem.py", line 53, in set
+    pickled = pickle.dumps(value, self.pickle_protocol)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 351, in __getstate__
+    self._fetch_all()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'sms_app_student.Phone' in 'field list'")
+ERROR 2025-04-15 23:52:23,801 basehttp 8456 8584 "GET / HTTP/1.1" 500 179453
+INFO 2025-04-15 23:52:30,350 basehttp 8456 8584 "GET /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:52:30,378 basehttp 8456 8584 "GET /admin/login/?next=/admin/auth/user/2/change/ HTTP/1.1" 200 3723
+INFO 2025-04-15 23:52:35,915 basehttp 8456 8584 "POST /admin/login/?next=/admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:52:35,944 basehttp 8456 8584 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22324
+INFO 2025-04-15 23:52:35,972 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:52:42,156 basehttp 8456 8584 "GET /admin/auth/user/ HTTP/1.1" 200 12306
+INFO 2025-04-15 23:52:42,183 basehttp 8456 13092 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2025-04-15 23:52:42,190 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:52:54,297 basehttp 8456 8584 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22324
+INFO 2025-04-15 23:52:54,327 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:53:04,492 basehttp 8456 8584 "GET /admin/auth/group/add/ HTTP/1.1" 200 13083
+INFO 2025-04-15 23:53:04,533 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:53:06,974 basehttp 8456 8584 "GET /admin/auth/user/ HTTP/1.1" 200 12306
+INFO 2025-04-15 23:53:07,008 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:53:08,527 basehttp 8456 8584 "GET /admin/auth/group/ HTTP/1.1" 200 8669
+INFO 2025-04-15 23:53:08,555 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:53:10,302 basehttp 8456 8584 "GET /admin/auth/group/add/ HTTP/1.1" 200 13083
+INFO 2025-04-15 23:53:10,330 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:53:18,355 basehttp 8456 8584 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:53:18,372 basehttp 8456 8584 "GET /admin/auth/group/ HTTP/1.1" 200 9994
+INFO 2025-04-15 23:53:18,402 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:53:20,945 basehttp 8456 8584 "GET /admin/auth/user/ HTTP/1.1" 200 12595
+INFO 2025-04-15 23:53:20,980 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:53:22,913 basehttp 8456 8584 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22361
+INFO 2025-04-15 23:53:22,942 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:53:56,388 basehttp 8456 8584 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:53:56,404 basehttp 8456 8584 "GET /admin/auth/user/ HTTP/1.1" 200 12775
+INFO 2025-04-15 23:53:56,435 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-15 23:54:11,647 basehttp 8456 8584 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-15 23:54:14,579 views 8456 8584 User admin logged out
+INFO 2025-04-15 23:54:14,585 basehttp 8456 8584 "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:54:14,591 basehttp 8456 8584 "GET /login/ HTTP/1.1" 200 4278
+INFO 2025-04-15 23:54:20,263 views 8456 8584 User cx logged in successfully
+INFO 2025-04-15 23:54:20,266 basehttp 8456 8584 "POST /login/ HTTP/1.1" 302 0
+ERROR 2025-04-15 23:54:20,309 log 8456 8584 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'sms_app_student.Phone' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 82, in get_context_data
+    cache.set(cache_key, stats, 300)  # 缓存5分钟
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\locmem.py", line 53, in set
+    pickled = pickle.dumps(value, self.pickle_protocol)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 351, in __getstate__
+    self._fetch_all()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'sms_app_student.Phone' in 'field list'")
+ERROR 2025-04-15 23:54:20,312 basehttp 8456 8584 "GET / HTTP/1.1" 500 179571
+INFO 2025-04-15 23:57:14,705 basehttp 8456 8584 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:57:14,718 basehttp 8456 8584 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3685
+INFO 2025-04-15 23:57:21,512 basehttp 8456 8584 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-04-15 23:57:21,526 basehttp 8456 8584 "GET /admin/ HTTP/1.1" 200 8395
+ERROR 2025-04-15 23:59:01,964 log 8456 8584 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'sms_app_student.Phone' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 82, in get_context_data
+    cache.set(cache_key, stats, 300)  # 缓存5分钟
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\cache\backends\locmem.py", line 53, in set
+    pickled = pickle.dumps(value, self.pickle_protocol)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 351, in __getstate__
+    self._fetch_all()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'sms_app_student.Phone' in 'field list'")
+ERROR 2025-04-15 23:59:01,967 basehttp 8456 8584 "GET / HTTP/1.1" 500 179574
+INFO 2025-04-15 23:59:23,619 basehttp 8456 8584 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22730
+INFO 2025-04-15 23:59:23,654 basehttp 8456 8584 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2025-04-15 23:59:45,713 log 8456 8584 Internal Server Error: /admin/sms_app/score/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'sms_app_score.CreatedAt' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'sms_app_score.CreatedAt' in 'field list'")
+ERROR 2025-04-15 23:59:45,722 basehttp 8456 8584 "GET /admin/sms_app/score/ HTTP/1.1" 500 185795
+INFO 2025-04-15 23:59:48,161 basehttp 8456 8584 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22730
+INFO 2025-04-15 23:59:50,562 basehttp 8456 8584 "GET /admin/auth/ HTTP/1.1" 200 5497
+INFO 2025-04-15 23:59:51,958 basehttp 8456 8584 "GET /admin/ HTTP/1.1" 200 8395
+ERROR 2025-04-15 23:59:53,000 log 8456 8584 Internal Server Error: /admin/sms_app/score/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'sms_app_score.CreatedAt' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\admin\options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\py_code\student_management\.venv\lib\site-packages\MySQLdb\connections.py", line 255, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'sms_app_score.CreatedAt' in 'field list'")
+ERROR 2025-04-15 23:59:53,000 basehttp 8456 8584 "GET /admin/sms_app/score/ HTTP/1.1" 500 185776
+INFO 2025-04-15 23:59:56,104 basehttp 8456 8584 "GET /admin/ HTTP/1.1" 200 8395
+INFO 2025-04-16 00:00:26,253 autoreload 8456 1748 D:\py_code\student_management\sms_project\sms_app\migrations\0001_initial.py changed, reloading.
+INFO 2025-04-16 00:00:26,834 autoreload 8664 23840 Watching for file changes with StatReloader
+INFO 2025-04-16 00:06:43,104 basehttp 8664 20624 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-04-16 00:06:43,128 basehttp 8664 20624 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4195
+INFO 2025-04-16 00:06:43,150 basehttp 8664 20624 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:43,150 basehttp 8664 12376 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:43,155 basehttp 8664 20624 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:43,156 basehttp 8664 12376 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:43,156 basehttp 8664 20624 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:43,162 basehttp 8664 12376 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:43,162 basehttp 8664 20624 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:54,035 basehttp 8664 20624 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-04-16 00:06:54,058 basehttp 8664 20624 "GET /admin/ HTTP/1.1" 200 7527
+INFO 2025-04-16 00:06:54,081 basehttp 8664 20624 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:54,092 basehttp 8664 20624 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:54,092 basehttp 8664 12376 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,718 basehttp 8664 12376 "GET /admin/sms_app/student/ HTTP/1.1" 200 8408
+INFO 2025-04-16 00:06:57,742 basehttp 8664 18528 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,742 basehttp 8664 12376 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,742 basehttp 8664 18064 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,742 basehttp 8664 17644 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,742 basehttp 8664 18528 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,750 basehttp 8664 18064 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,751 basehttp 8664 12376 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,751 basehttp 8664 17644 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,753 basehttp 8664 18528 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,754 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:06:57,754 basehttp 8664 20624 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:57,765 basehttp 8664 20624 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-04-16 00:06:59,157 basehttp 8664 20624 "GET /admin/sms_app/score/ HTTP/1.1" 200 8404
+INFO 2025-04-16 00:06:59,187 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:07:00,081 basehttp 8664 20624 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 8426
+INFO 2025-04-16 00:07:00,108 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:07:00,981 basehttp 8664 20624 "GET /admin/sms_app/course/ HTTP/1.1" 200 8406
+INFO 2025-04-16 00:07:00,998 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:07:01,626 basehttp 8664 20624 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-16 00:07:01,649 basehttp 8664 18528 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-04-16 00:07:01,650 basehttp 8664 17644 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-04-16 00:07:01,653 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:07:01,663 basehttp 8664 20624 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-04-16 00:07:02,222 basehttp 8664 20624 "GET /admin/auth/group/ HTTP/1.1" 200 8669
+INFO 2025-04-16 00:07:02,252 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:07:03,017 basehttp 8664 20624 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-16 00:07:03,046 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:07:07,020 basehttp 8664 20624 "GET /admin/sms_app/student/ HTTP/1.1" 200 8408
+INFO 2025-04-16 00:07:07,049 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:07:09,133 basehttp 8664 20624 "GET /admin/sms_app/score/ HTTP/1.1" 200 8404
+INFO 2025-04-16 00:07:09,157 basehttp 8664 20624 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 00:07:16,792 basehttp 8664 20624 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-16 12:23:52,851 autoreload 16920 5920 Watching for file changes with StatReloader
+INFO 2025-04-16 12:24:02,997 basehttp 16920 25480 "GET / HTTP/1.1" 302 0
+INFO 2025-04-16 12:24:03,059 basehttp 16920 25480 "GET /login/?next=/ HTTP/1.1" 200 4278
+WARNING 2025-04-16 12:24:04,725 log 16920 25480 Not Found: /favicon.ico
+WARNING 2025-04-16 12:24:04,726 basehttp 16920 25480 "GET /favicon.ico HTTP/1.1" 404 3754
+INFO 2025-04-16 12:24:06,581 basehttp 16920 25996 "GET /login/ HTTP/1.1" 200 4278
+WARNING 2025-04-16 12:24:11,658 views 16920 25996 Failed login attempt for username: admin
+INFO 2025-04-16 12:24:11,658 basehttp 16920 25996 "POST /login/ HTTP/1.1" 200 4394
+INFO 2025-04-16 12:24:31,093 views 16920 25996 User admin logged in successfully
+INFO 2025-04-16 12:24:31,097 basehttp 16920 25996 "POST /login/ HTTP/1.1" 302 0
+ERROR 2025-04-16 12:24:31,176 log 16920 25996 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: dashboard.html
+ERROR 2025-04-16 12:24:31,176 basehttp 16920 25996 "GET / HTTP/1.1" 500 84991
+INFO 2025-04-16 12:26:57,083 basehttp 16920 25996 "GET / HTTP/1.1" 200 9806
+INFO 2025-04-16 12:27:01,369 basehttp 16920 25996 "GET /students/ HTTP/1.1" 200 3803
+ERROR 2025-04-16 12:27:02,270 log 16920 25996 Internal Server Error: /scores/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: scores/list.html, sms_app/score_list.html
+ERROR 2025-04-16 12:27:02,271 basehttp 16920 25996 "GET /scores/ HTTP/1.1" 500 87439
+INFO 2025-04-16 12:28:13,493 basehttp 16920 25996 "GET /scores/ HTTP/1.1" 200 5738
+INFO 2025-04-16 12:28:15,032 basehttp 16920 25996 "GET /scores/ HTTP/1.1" 200 5738
+INFO 2025-04-16 12:28:15,833 basehttp 16920 25996 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-16 12:28:16,724 basehttp 16920 25996 "GET /scores/ HTTP/1.1" 200 5738
+INFO 2025-04-16 12:28:17,148 basehttp 16920 25996 "GET / HTTP/1.1" 200 9806
+INFO 2025-04-16 12:28:21,486 basehttp 16920 25996 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-16 12:28:22,042 basehttp 16920 25996 "GET /scores/ HTTP/1.1" 200 5738
+INFO 2025-04-16 12:28:23,580 basehttp 16920 25996 "GET /scores/?student_id=&course_id= HTTP/1.1" 200 5738
+ERROR 2025-04-16 12:28:24,390 log 16920 25996 Internal Server Error: /scores/add/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: scores/form.html
+ERROR 2025-04-16 12:28:24,390 basehttp 16920 25996 "GET /scores/add/ HTTP/1.1" 500 85019
+INFO 2025-04-16 12:28:46,484 basehttp 16920 25996 "GET /scores/add/ HTTP/1.1" 200 9490
+INFO 2025-04-16 12:28:59,528 basehttp 16920 25996 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-16 12:29:00,232 basehttp 16920 25996 "GET /scores/ HTTP/1.1" 200 5738
+INFO 2025-04-16 12:29:01,586 basehttp 16920 25996 "GET /students/ HTTP/1.1" 200 3803
+ERROR 2025-04-16 12:29:02,304 log 16920 25996 Internal Server Error: /students/add/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: students/form.html
+ERROR 2025-04-16 12:29:02,310 basehttp 16920 25996 "GET /students/add/ HTTP/1.1" 500 85050
+INFO 2025-04-16 12:29:40,753 basehttp 16920 25996 "GET /students/add/ HTTP/1.1" 200 12934
+INFO 2025-04-16 12:30:17,962 basehttp 16920 25996 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-16 12:30:19,517 basehttp 16920 25996 "GET /students/add/ HTTP/1.1" 200 12934
+INFO 2025-04-16 12:30:20,594 basehttp 16920 25996 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-16 12:30:21,292 basehttp 16920 25996 "GET /scores/ HTTP/1.1" 200 5738
+INFO 2025-04-16 12:30:22,190 basehttp 16920 25996 "GET /scores/?student_id=&course_id= HTTP/1.1" 200 5738
+INFO 2025-04-16 12:30:22,837 basehttp 16920 25996 "GET /scores/add/ HTTP/1.1" 200 9490
+INFO 2025-04-16 12:30:23,952 basehttp 16920 25996 "GET /scores/ HTTP/1.1" 200 5738
+INFO 2025-04-16 12:30:30,487 basehttp 16920 25996 "GET /admin/ HTTP/1.1" 200 7527
+INFO 2025-04-16 12:30:30,511 basehttp 16920 25996 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-16 12:30:30,515 basehttp 16920 25996 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-16 12:30:30,518 basehttp 16920 20892 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-04-16 12:30:30,519 basehttp 16920 25996 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-16 12:30:30,519 basehttp 16920 9404 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-16 12:30:30,547 basehttp 16920 9404 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-16 12:30:30,549 basehttp 16920 25996 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-16 12:30:30,584 basehttp 16920 9404 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-04-16 12:30:30,584 basehttp 16920 25996 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-04-16 12:30:32,875 basehttp 16920 9404 "GET / HTTP/1.1" 200 9806
+INFO 2025-04-16 12:30:34,832 basehttp 16920 9404 "GET /admin/ HTTP/1.1" 200 7527
+INFO 2025-04-16 12:30:40,472 basehttp 16920 9404 "GET /admin/sms_app/student/ HTTP/1.1" 200 8408
+INFO 2025-04-16 12:30:40,494 basehttp 16920 9404 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2025-04-16 12:30:40,513 basehttp 16920 21892 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-16 12:30:40,521 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:40,523 basehttp 16920 20112 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2025-04-16 12:30:40,528 basehttp 16920 9404 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2025-04-16 12:30:40,534 basehttp 16920 15408 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2025-04-16 12:30:40,536 basehttp 16920 21892 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-16 12:30:40,537 basehttp 16920 25996 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-16 12:30:40,552 basehttp 16920 20892 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2025-04-16 12:30:40,568 basehttp 16920 20892 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-04-16 12:30:40,608 basehttp 16920 20112 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2025-04-16 12:30:40,629 basehttp 16920 20112 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-04-16 12:30:41,495 basehttp 16920 20112 "GET /admin/sms_app/score/ HTTP/1.1" 200 8404
+INFO 2025-04-16 12:30:41,520 basehttp 16920 20112 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:42,934 basehttp 16920 20112 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 8426
+INFO 2025-04-16 12:30:42,954 basehttp 16920 20112 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:43,492 basehttp 16920 20112 "GET /admin/sms_app/course/ HTTP/1.1" 200 8406
+INFO 2025-04-16 12:30:43,520 basehttp 16920 20112 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:44,392 basehttp 16920 20112 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-16 12:30:44,419 basehttp 16920 20112 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:44,423 basehttp 16920 20892 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-04-16 12:30:44,423 basehttp 16920 25996 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-04-16 12:30:44,438 basehttp 16920 25996 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2025-04-16 12:30:46,219 basehttp 16920 25996 "GET /admin/auth/group/ HTTP/1.1" 200 8669
+INFO 2025-04-16 12:30:46,245 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:47,245 basehttp 16920 25996 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-16 12:30:47,273 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:49,072 basehttp 16920 25996 "GET /admin/sms_app/course/ HTTP/1.1" 200 8406
+INFO 2025-04-16 12:30:49,098 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:49,567 basehttp 16920 25996 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 8426
+INFO 2025-04-16 12:30:49,593 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:49,962 basehttp 16920 25996 "GET /admin/sms_app/score/ HTTP/1.1" 200 8404
+INFO 2025-04-16 12:30:49,990 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:50,378 basehttp 16920 25996 "GET /admin/sms_app/student/ HTTP/1.1" 200 8408
+INFO 2025-04-16 12:30:50,406 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:51,921 basehttp 16920 25996 "GET /admin/sms_app/score/ HTTP/1.1" 200 8404
+INFO 2025-04-16 12:30:52,806 basehttp 16920 25996 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 8426
+INFO 2025-04-16 12:30:53,350 basehttp 16920 25996 "GET /admin/sms_app/course/ HTTP/1.1" 200 8406
+INFO 2025-04-16 12:30:53,734 basehttp 16920 25996 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-16 12:30:54,002 basehttp 16920 25996 "GET /admin/auth/group/ HTTP/1.1" 200 8669
+INFO 2025-04-16 12:30:55,683 basehttp 16920 25996 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-16 12:30:55,708 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:57,161 basehttp 16920 25996 "GET /admin/auth/user/add/ HTTP/1.1" 200 11475
+INFO 2025-04-16 12:30:57,185 basehttp 16920 25996 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2025-04-16 12:30:57,190 basehttp 16920 20112 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:30:57,192 basehttp 16920 25996 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2025-04-16 12:30:57,197 basehttp 16920 20892 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-04-16 12:30:57,206 basehttp 16920 25996 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-04-16 12:30:59,751 basehttp 16920 25996 "GET /admin/sms_app/course/ HTTP/1.1" 200 8406
+INFO 2025-04-16 12:30:59,780 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:00,790 basehttp 16920 25996 "GET /admin/sms_app/course/add/ HTTP/1.1" 200 11155
+INFO 2025-04-16 12:31:00,817 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:02,461 basehttp 16920 25996 "GET /admin/sms_app/student/ HTTP/1.1" 200 8408
+INFO 2025-04-16 12:31:02,488 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:03,601 basehttp 16920 25996 "GET /admin/sms_app/student/add/ HTTP/1.1" 200 15417
+INFO 2025-04-16 12:31:03,632 basehttp 16920 25996 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:03,633 basehttp 16920 21892 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-04-16 12:31:03,642 basehttp 16920 20892 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2025-04-16 12:31:03,642 basehttp 16920 20112 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-04-16 12:31:03,680 basehttp 16920 20892 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-04-16 12:31:05,130 basehttp 16920 20892 "GET /admin/sms_app/score/ HTTP/1.1" 200 8404
+INFO 2025-04-16 12:31:05,155 basehttp 16920 20892 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:06,066 basehttp 16920 20892 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 8426
+INFO 2025-04-16 12:31:06,092 basehttp 16920 20892 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:07,208 basehttp 16920 20892 "GET /admin/sms_app/classinformation/add/ HTTP/1.1" 200 11154
+INFO 2025-04-16 12:31:07,234 basehttp 16920 20892 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:09,284 basehttp 16920 20892 "GET /admin/sms_app/course/ HTTP/1.1" 200 8406
+INFO 2025-04-16 12:31:09,311 basehttp 16920 20892 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:10,450 basehttp 16920 20892 "GET /admin/sms_app/course/add/ HTTP/1.1" 200 11155
+INFO 2025-04-16 12:31:10,476 basehttp 16920 20892 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:31:13,714 basehttp 16920 20892 "GET / HTTP/1.1" 200 9806
+INFO 2025-04-16 12:31:19,984 basehttp 16920 20892 "GET /students/ HTTP/1.1" 200 3803
+INFO 2025-04-16 12:31:20,686 basehttp 16920 20892 "GET /scores/ HTTP/1.1" 200 5738
+INFO 2025-04-16 12:31:22,162 basehttp 16920 20892 "GET / HTTP/1.1" 200 9806
+INFO 2025-04-16 12:36:20,220 autoreload 25800 9748 Watching for file changes with StatReloader
+INFO 2025-04-16 12:36:23,716 basehttp 25800 1280 "GET / HTTP/1.1" 200 9806
+WARNING 2025-04-16 12:36:23,919 log 25800 1280 Not Found: /favicon.ico
+WARNING 2025-04-16 12:36:23,920 basehttp 25800 1280 "GET /favicon.ico HTTP/1.1" 404 3754
+INFO 2025-04-16 12:36:29,977 basehttp 25800 1280 "GET /admin/ HTTP/1.1" 200 7527
+INFO 2025-04-16 12:36:34,148 basehttp 25800 1280 "GET /admin/sms_app/classinformation/add/ HTTP/1.1" 200 11154
+INFO 2025-04-16 12:36:34,179 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:37:10,378 basehttp 25800 1280 "POST /admin/sms_app/classinformation/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:37:10,403 basehttp 25800 1280 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 9839
+INFO 2025-04-16 12:37:10,428 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:37:12,454 basehttp 25800 1280 "GET /admin/sms_app/course/ HTTP/1.1" 200 8406
+INFO 2025-04-16 12:37:12,476 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:37:13,733 basehttp 25800 1280 "GET /admin/sms_app/course/add/ HTTP/1.1" 200 11155
+INFO 2025-04-16 12:37:13,767 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:37:33,497 basehttp 25800 1280 "POST /admin/sms_app/course/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:37:33,503 basehttp 25800 1280 "GET /admin/sms_app/course/ HTTP/1.1" 200 9799
+INFO 2025-04-16 12:37:33,539 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:37:35,704 basehttp 25800 1280 "GET /admin/sms_app/score/ HTTP/1.1" 200 8404
+INFO 2025-04-16 12:37:35,728 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:37:37,051 basehttp 25800 1280 "GET /admin/sms_app/score/add/ HTTP/1.1" 200 13765
+INFO 2025-04-16 12:37:37,077 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:37:38,796 basehttp 25800 1280 "GET /admin/sms_app/student/ HTTP/1.1" 200 8408
+INFO 2025-04-16 12:37:38,822 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:37:40,015 basehttp 25800 1280 "GET /admin/sms_app/student/add/ HTTP/1.1" 200 15470
+INFO 2025-04-16 12:37:40,041 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:38:12,271 basehttp 25800 1280 "POST /admin/sms_app/student/add/ HTTP/1.1" 200 15725
+INFO 2025-04-16 12:38:12,296 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:38:18,826 basehttp 25800 1280 "POST /admin/sms_app/student/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:38:18,839 basehttp 25800 1280 "GET /admin/sms_app/student/ HTTP/1.1" 200 9833
+INFO 2025-04-16 12:38:18,866 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:38:20,756 basehttp 25800 1280 "GET /admin/sms_app/score/ HTTP/1.1" 200 8404
+INFO 2025-04-16 12:38:20,781 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:38:21,971 basehttp 25800 1280 "GET /admin/sms_app/score/add/ HTTP/1.1" 200 13828
+INFO 2025-04-16 12:38:21,995 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:38:30,747 basehttp 25800 1280 "POST /admin/sms_app/score/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:38:30,762 basehttp 25800 1280 "GET /admin/sms_app/score/ HTTP/1.1" 200 9810
+INFO 2025-04-16 12:38:30,789 basehttp 25800 1280 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:38:34,699 basehttp 25800 1280 "GET /admin/sms_app/ HTTP/1.1" 200 6413
+INFO 2025-04-16 12:38:36,290 basehttp 25800 1280 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-16 12:38:42,046 basehttp 25800 1280 "GET / HTTP/1.1" 200 9806
+INFO 2025-04-16 12:38:43,954 basehttp 25800 1280 "GET / HTTP/1.1" 200 9806
+INFO 2025-04-16 12:38:44,567 basehttp 25800 1280 "GET / HTTP/1.1" 200 9806
+INFO 2025-04-16 12:38:48,124 basehttp 25800 1280 "GET /students/ HTTP/1.1" 200 3979
+INFO 2025-04-16 12:38:50,791 basehttp 25800 1280 "GET /students/ HTTP/1.1" 200 3979
+ERROR 2025-04-16 12:38:51,564 log 25800 1280 Internal Server Error: /scores/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'delete_score' not found. 'delete_score' is not a valid view function or pattern name.
+ERROR 2025-04-16 12:38:51,566 basehttp 25800 1280 "GET /scores/ HTTP/1.1" 500 181910
+INFO 2025-04-16 12:39:45,659 autoreload 25800 9748 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-16 12:39:46,122 autoreload 11444 14760 Watching for file changes with StatReloader
+INFO 2025-04-16 12:39:59,648 autoreload 11444 14760 D:\py_code\student_management\sms_project\sms_project\urls.py changed, reloading.
+INFO 2025-04-16 12:40:00,110 autoreload 22960 24016 Watching for file changes with StatReloader
+INFO 2025-04-16 12:40:05,145 basehttp 22960 9524 "GET /scores/ HTTP/1.1" 200 6662
+INFO 2025-04-16 12:40:11,605 basehttp 22960 9524 "GET /scores/add/ HTTP/1.1" 200 9606
+INFO 2025-04-16 12:40:23,361 basehttp 22960 9524 "POST /scores/add/ HTTP/1.1" 200 9636
+INFO 2025-04-16 12:40:25,455 basehttp 22960 9524 "POST /scores/add/ HTTP/1.1" 200 9636
+INFO 2025-04-16 12:40:26,143 basehttp 22960 9524 "POST /scores/add/ HTTP/1.1" 200 9636
+INFO 2025-04-16 12:40:26,582 basehttp 22960 9524 "POST /scores/add/ HTTP/1.1" 200 9636
+INFO 2025-04-16 12:40:27,019 basehttp 22960 9524 "POST /scores/add/ HTTP/1.1" 200 9636
+INFO 2025-04-16 12:40:28,245 basehttp 22960 9524 "POST /scores/add/ HTTP/1.1" 200 9636
+INFO 2025-04-16 12:40:28,886 basehttp 22960 9524 "POST /scores/add/ HTTP/1.1" 200 9636
+INFO 2025-04-16 12:41:18,807 autoreload 22960 24016 D:\py_code\student_management\sms_project\sms_app\forms.py changed, reloading.
+INFO 2025-04-16 12:41:19,271 autoreload 15068 9936 Watching for file changes with StatReloader
+INFO 2025-04-16 12:41:25,742 basehttp 15068 25556 "POST /scores/add/ HTTP/1.1" 200 7505
+INFO 2025-04-16 12:41:31,293 basehttp 15068 25556 "POST /scores/add/ HTTP/1.1" 200 7505
+INFO 2025-04-16 12:41:32,871 basehttp 15068 25556 "GET /scores/ HTTP/1.1" 200 6662
+INFO 2025-04-16 12:41:36,082 basehttp 15068 25556 "GET /scores/?student_id=&course_id= HTTP/1.1" 200 6662
+INFO 2025-04-16 12:41:37,367 basehttp 15068 25556 "GET /students/ HTTP/1.1" 200 3979
+INFO 2025-04-16 12:41:38,737 basehttp 15068 25556 "GET /scores/ HTTP/1.1" 200 6662
+INFO 2025-04-16 12:41:40,145 basehttp 15068 25556 "GET /students/ HTTP/1.1" 200 3979
+INFO 2025-04-16 12:41:40,821 basehttp 15068 25556 "GET /students/add/ HTTP/1.1" 200 12987
+INFO 2025-04-16 12:42:18,974 views 15068 25556 Student 艾散 added successfully
+INFO 2025-04-16 12:42:18,974 basehttp 15068 25556 "POST /students/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:42:18,989 basehttp 15068 25556 "GET /students/ HTTP/1.1" 200 4582
+INFO 2025-04-16 12:42:21,629 basehttp 15068 25556 "GET /scores/ HTTP/1.1" 200 6826
+INFO 2025-04-16 12:42:25,939 basehttp 15068 25556 "GET / HTTP/1.1" 200 11063
+INFO 2025-04-16 12:42:30,599 basehttp 15068 25556 "GET /students/ HTTP/1.1" 200 4261
+INFO 2025-04-16 12:42:31,940 basehttp 15068 25556 "GET /scores/ HTTP/1.1" 200 6826
+INFO 2025-04-16 12:42:33,216 basehttp 15068 25556 "GET /scores/add/ HTTP/1.1" 200 7343
+INFO 2025-04-16 12:42:39,193 views 15068 25556 Score for 艾散 added successfully
+INFO 2025-04-16 12:42:39,194 basehttp 15068 25556 "POST /scores/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:42:39,203 basehttp 15068 25556 "GET /scores/ HTTP/1.1" 200 7917
+INFO 2025-04-16 12:43:38,195 autoreload 15068 9936 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-16 12:43:38,656 autoreload 21144 8748 Watching for file changes with StatReloader
+INFO 2025-04-16 12:44:01,456 autoreload 21144 8748 D:\py_code\student_management\sms_project\sms_project\urls.py changed, reloading.
+INFO 2025-04-16 12:44:01,901 autoreload 25188 23744 Watching for file changes with StatReloader
+INFO 2025-04-16 12:44:03,065 autoreload 25188 23744 D:\py_code\student_management\sms_project\sms_project\urls.py changed, reloading.
+INFO 2025-04-16 12:44:03,472 autoreload 15160 23440 Watching for file changes with StatReloader
+INFO 2025-04-16 12:44:13,348 basehttp 15160 8952 "GET /scores/ HTTP/1.1" 200 7606
+INFO 2025-04-16 12:44:14,024 basehttp 15160 8952 "GET /students/ HTTP/1.1" 200 4263
+INFO 2025-04-16 12:44:14,493 basehttp 15160 8952 "GET /scores/ HTTP/1.1" 200 7606
+ERROR 2025-04-16 12:44:15,806 log 15160 8952 Internal Server Error: /profile/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 280, in get_context_data
+    } for score in Score.objects.filter(CreatedBy=user).order_by('-CreatedAt')[:5]
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'CreatedBy' into field. Choices are: Course, Course_id, CreatedAt, FinalGrade, MidtermGrade, RegularGrade, ScoreID, Student, Student_id, UpdatedAt
+ERROR 2025-04-16 12:44:15,811 basehttp 15160 8952 "GET /profile/ HTTP/1.1" 500 132181
+INFO 2025-04-16 12:44:30,623 autoreload 15160 23440 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-16 12:44:31,073 autoreload 12076 14340 Watching for file changes with StatReloader
+INFO 2025-04-16 12:44:47,660 basehttp 12076 26032 "GET /profile/ HTTP/1.1" 200 7558
+INFO 2025-04-16 12:44:52,914 basehttp 12076 26032 "GET /profile/ HTTP/1.1" 200 7558
+INFO 2025-04-16 12:44:53,484 views 12076 26032 User admin logged out
+INFO 2025-04-16 12:44:53,490 basehttp 12076 26032 "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:44:53,495 basehttp 12076 26032 "GET /login/ HTTP/1.1" 200 4278
+INFO 2025-04-16 12:44:54,989 basehttp 12076 26032 "GET /students/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:44:55,001 basehttp 12076 26032 "GET /login/?next=/students/ HTTP/1.1" 200 4278
+INFO 2025-04-16 12:44:55,661 basehttp 12076 26032 "GET /scores/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:44:55,666 basehttp 12076 26032 "GET /login/?next=/scores/ HTTP/1.1" 200 4278
+INFO 2025-04-16 12:44:57,736 basehttp 12076 26032 "GET / HTTP/1.1" 302 0
+INFO 2025-04-16 12:44:57,736 basehttp 12076 26032 "GET /login/?next=/ HTTP/1.1" 200 4278
+INFO 2025-04-16 12:45:03,420 basehttp 12076 26032 "GET /scores/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:45:03,420 basehttp 12076 26032 "GET /login/?next=/scores/add/ HTTP/1.1" 200 4278
+INFO 2025-04-16 12:45:06,004 basehttp 12076 26032 "GET /students/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:45:06,004 basehttp 12076 26032 "GET /login/?next=/students/add/ HTTP/1.1" 200 4278
+INFO 2025-04-16 12:45:07,422 basehttp 12076 26032 "GET /scores/?student_id=&course_id= HTTP/1.1" 302 0
+INFO 2025-04-16 12:45:07,422 basehttp 12076 26032 "GET /login/?next=/scores/%3Fstudent_id%3D%26course_id%3D HTTP/1.1" 200 4278
+INFO 2025-04-16 12:45:16,339 basehttp 12076 26032 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:45:16,355 basehttp 12076 26032 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4195
+INFO 2025-04-16 12:45:16,389 basehttp 12076 26032 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-04-16 12:45:25,508 basehttp 12076 26032 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:45:25,520 basehttp 12076 26032 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-16 12:45:28,159 basehttp 12076 26032 "GET /admin/sms_app/student/ HTTP/1.1" 200 9856
+INFO 2025-04-16 12:45:28,190 basehttp 12076 26032 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:45:29,572 basehttp 12076 26032 "GET /admin/sms_app/score/ HTTP/1.1" 200 9822
+INFO 2025-04-16 12:45:29,604 basehttp 12076 26032 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:45:30,167 basehttp 12076 26032 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 9618
+INFO 2025-04-16 12:45:30,193 basehttp 12076 26032 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:45:30,658 basehttp 12076 26032 "GET /admin/sms_app/course/ HTTP/1.1" 200 9588
+INFO 2025-04-16 12:45:30,685 basehttp 12076 26032 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:45:31,343 basehttp 12076 26032 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-16 12:45:31,367 basehttp 12076 26032 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:45:32,715 basehttp 12076 26032 "GET /admin/auth/group/ HTTP/1.1" 200 8669
+INFO 2025-04-16 12:45:32,740 basehttp 12076 26032 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:45:34,526 basehttp 12076 26032 "GET /admin/auth/group/add/ HTTP/1.1" 200 13135
+INFO 2025-04-16 12:45:34,553 basehttp 12076 26032 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2025-04-16 12:45:34,553 basehttp 12076 25020 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2025-04-16 12:45:34,558 basehttp 12076 7680 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:45:34,585 basehttp 12076 7680 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2025-04-16 12:45:34,585 basehttp 12076 26032 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2025-04-16 12:45:34,585 basehttp 12076 25020 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2025-04-16 12:45:38,229 basehttp 12076 25020 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-16 12:45:44,649 basehttp 12076 25020 "GET / HTTP/1.1" 200 11403
+INFO 2025-04-16 12:45:47,525 basehttp 12076 25020 "GET /students/ HTTP/1.1" 200 4263
+INFO 2025-04-16 12:45:48,550 basehttp 12076 25020 "GET /students/add/ HTTP/1.1" 200 12989
+INFO 2025-04-16 12:45:51,450 basehttp 12076 25020 "GET /scores/ HTTP/1.1" 200 7606
+INFO 2025-04-16 12:45:52,607 basehttp 12076 25020 "GET /scores/add/ HTTP/1.1" 200 7345
+INFO 2025-04-16 12:45:55,749 basehttp 12076 25020 "GET /scores/ HTTP/1.1" 200 7606
+INFO 2025-04-16 12:45:57,221 basehttp 12076 25020 "GET /scores/?student_id=&course_id= HTTP/1.1" 200 7606
+INFO 2025-04-16 12:46:01,508 basehttp 12076 25020 "GET /scores/1/delete/ HTTP/1.1" 200 4719
+INFO 2025-04-16 12:46:05,957 basehttp 12076 25020 "POST /scores/1/delete/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:46:05,969 basehttp 12076 25020 "GET /scores/ HTTP/1.1" 200 6828
+INFO 2025-04-16 12:46:07,253 basehttp 12076 25020 "GET /scores/2/update/ HTTP/1.1" 200 7381
+INFO 2025-04-16 12:46:08,454 views 12076 25020 Score for 艾散 updated successfully
+INFO 2025-04-16 12:46:08,454 basehttp 12076 25020 "POST /scores/2/update/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:46:08,468 basehttp 12076 25020 "GET /scores/ HTTP/1.1" 200 7141
+INFO 2025-04-16 12:46:10,993 basehttp 12076 25020 "GET /scores/2/delete/ HTTP/1.1" 200 4719
+INFO 2025-04-16 12:46:12,321 basehttp 12076 25020 "GET /scores/ HTTP/1.1" 200 6828
+INFO 2025-04-16 12:46:14,974 basehttp 12076 25020 "GET /scores/2/delete/ HTTP/1.1" 200 4719
+INFO 2025-04-16 12:46:16,095 basehttp 12076 25020 "GET /scores/ HTTP/1.1" 200 6828
+INFO 2025-04-16 12:46:17,079 basehttp 12076 25020 "GET /scores/add/ HTTP/1.1" 200 7345
+INFO 2025-04-16 12:46:22,404 views 12076 25020 Score for 陈曦 added successfully
+INFO 2025-04-16 12:46:22,404 basehttp 12076 25020 "POST /scores/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:46:22,415 basehttp 12076 25020 "GET /scores/ HTTP/1.1" 200 7919
+INFO 2025-04-16 12:46:25,305 views 12076 25020 User admin logged out
+INFO 2025-04-16 12:46:25,310 basehttp 12076 25020 "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:46:25,315 basehttp 12076 25020 "GET /login/ HTTP/1.1" 200 4278
+INFO 2025-04-16 12:48:10,206 autoreload 16544 10444 Watching for file changes with StatReloader
+INFO 2025-04-16 12:48:12,695 basehttp 16544 4020 "GET / HTTP/1.1" 302 0
+INFO 2025-04-16 12:48:12,721 basehttp 16544 4020 "GET /login/?next=/ HTTP/1.1" 200 4278
+WARNING 2025-04-16 12:48:12,912 log 16544 4020 Not Found: /favicon.ico
+WARNING 2025-04-16 12:48:12,913 basehttp 16544 4020 "GET /favicon.ico HTTP/1.1" 404 4028
+INFO 2025-04-16 12:48:30,770 views 16544 4020 User admin logged in successfully
+INFO 2025-04-16 12:48:30,774 basehttp 16544 4020 "POST /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:48:30,800 basehttp 16544 4020 "GET / HTTP/1.1" 200 11403
+INFO 2025-04-16 12:48:34,439 basehttp 16544 4020 "GET /students/ HTTP/1.1" 200 4263
+INFO 2025-04-16 12:48:35,193 basehttp 16544 4020 "GET /scores/ HTTP/1.1" 200 7606
+INFO 2025-04-16 12:48:35,792 basehttp 16544 4020 "GET /students/ HTTP/1.1" 200 4263
+INFO 2025-04-16 12:48:36,476 basehttp 16544 4020 "GET /students/add/ HTTP/1.1" 200 12989
+INFO 2025-04-16 12:49:13,112 views 16544 4020 Student 王嘉豪 added successfully
+INFO 2025-04-16 12:49:13,112 basehttp 16544 4020 "POST /students/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:49:13,125 basehttp 16544 4020 "GET /students/ HTTP/1.1" 200 4872
+INFO 2025-04-16 12:49:16,802 basehttp 16544 4020 "GET /students/ HTTP/1.1" 200 4548
+INFO 2025-04-16 12:49:18,038 basehttp 16544 4020 "GET /scores/ HTTP/1.1" 200 7773
+INFO 2025-04-16 12:49:22,874 basehttp 16544 4020 "GET /scores/?student_id=123070330230&course_id=01 HTTP/1.1" 200 6405
+INFO 2025-04-16 12:49:23,889 basehttp 16544 4020 "GET /scores/add/ HTTP/1.1" 200 7408
+INFO 2025-04-16 12:49:34,015 views 16544 4020 Score for 王嘉豪 added successfully
+INFO 2025-04-16 12:49:34,016 basehttp 16544 4020 "POST /scores/add/ HTTP/1.1" 302 0
+INFO 2025-04-16 12:49:34,023 basehttp 16544 4020 "GET /scores/ HTTP/1.1" 200 8875
+INFO 2025-04-16 12:49:43,183 basehttp 16544 4020 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-16 12:49:45,760 basehttp 16544 4020 "GET /admin/sms_app/student/ HTTP/1.1" 200 10104
+INFO 2025-04-16 12:49:45,788 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:47,142 basehttp 16544 4020 "GET /admin/sms_app/score/ HTTP/1.1" 200 10055
+INFO 2025-04-16 12:49:47,167 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:47,734 basehttp 16544 4020 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 9618
+INFO 2025-04-16 12:49:47,760 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:48,256 basehttp 16544 4020 "GET /admin/sms_app/course/ HTTP/1.1" 200 9588
+INFO 2025-04-16 12:49:48,281 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:49,414 basehttp 16544 4020 "GET /admin/sms_app/student/add/ HTTP/1.1" 200 15470
+INFO 2025-04-16 12:49:49,442 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:50,557 basehttp 16544 4020 "GET /admin/sms_app/score/add/ HTTP/1.1" 200 13957
+INFO 2025-04-16 12:49:50,581 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:51,027 basehttp 16544 4020 "GET /admin/sms_app/classinformation/add/ HTTP/1.1" 200 11154
+INFO 2025-04-16 12:49:51,055 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:51,885 basehttp 16544 4020 "GET /admin/sms_app/course/add/ HTTP/1.1" 200 11155
+INFO 2025-04-16 12:49:51,911 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:53,325 basehttp 16544 4020 "GET /admin/auth/user/add/ HTTP/1.1" 200 11475
+INFO 2025-04-16 12:49:53,351 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-16 12:49:53,774 basehttp 16544 4020 "GET /admin/auth/group/add/ HTTP/1.1" 200 13135
+INFO 2025-04-16 12:49:53,801 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
