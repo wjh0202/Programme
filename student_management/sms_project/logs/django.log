@@ -2016,3 +2016,724 @@ INFO 2025-04-16 12:49:53,325 basehttp 16544 4020 "GET /admin/auth/user/add/ HTTP
 INFO 2025-04-16 12:49:53,351 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
 INFO 2025-04-16 12:49:53,774 basehttp 16544 4020 "GET /admin/auth/group/add/ HTTP/1.1" 200 13135
 INFO 2025-04-16 12:49:53,801 basehttp 16544 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-17 19:01:44,671 autoreload 23932 11068 Watching for file changes with StatReloader
+INFO 2025-04-17 19:02:17,194 autoreload 3080 17308 Watching for file changes with StatReloader
+INFO 2025-04-17 19:02:19,627 basehttp 3080 24572 "GET / HTTP/1.1" 200 12097
+WARNING 2025-04-17 19:02:20,125 log 3080 24572 Not Found: /favicon.ico
+WARNING 2025-04-17 19:02:20,125 basehttp 3080 24572 "GET /favicon.ico HTTP/1.1" 404 4028
+INFO 2025-04-17 19:02:25,787 basehttp 3080 24572 "GET /students/ HTTP/1.1" 200 4548
+INFO 2025-04-17 19:02:29,692 basehttp 3080 24572 "GET /scores/ HTTP/1.1" 200 8562
+INFO 2025-04-17 19:02:32,702 basehttp 3080 24572 "GET /students/ HTTP/1.1" 200 4548
+INFO 2025-04-17 19:02:35,500 basehttp 3080 24572 "GET /scores/ HTTP/1.1" 200 8562
+INFO 2025-04-17 19:02:38,881 basehttp 3080 24572 "GET /scores/4/delete/ HTTP/1.1" 200 4730
+INFO 2025-04-17 19:02:40,170 basehttp 3080 24572 "POST /scores/4/delete/ HTTP/1.1" 302 0
+INFO 2025-04-17 19:02:40,178 basehttp 3080 24572 "GET /scores/ HTTP/1.1" 200 7773
+INFO 2025-04-17 19:02:41,498 basehttp 3080 24572 "GET /scores/ HTTP/1.1" 200 7773
+INFO 2025-04-17 19:02:42,669 basehttp 3080 24572 "GET /students/ HTTP/1.1" 200 4548
+INFO 2025-04-17 19:02:49,272 basehttp 3080 24572 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-17 19:02:49,297 basehttp 3080 24572 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:49,300 basehttp 3080 26112 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:49,301 basehttp 3080 24572 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:49,306 basehttp 3080 18908 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:49,306 basehttp 3080 21040 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:49,310 basehttp 3080 21040 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:49,310 basehttp 3080 18908 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:49,322 basehttp 3080 18908 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:49,322 basehttp 3080 21040 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,016 basehttp 3080 21040 "GET /admin/sms_app/student/ HTTP/1.1" 200 10104
+INFO 2025-04-17 19:02:52,044 basehttp 3080 21040 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,047 basehttp 3080 26112 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,048 basehttp 3080 24572 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,048 basehttp 3080 21040 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,051 basehttp 3080 5836 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,052 basehttp 3080 20904 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,052 basehttp 3080 26112 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,053 basehttp 3080 21040 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,053 basehttp 3080 24572 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,058 basehttp 3080 24572 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:52,061 basehttp 3080 18908 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-17 19:02:52,071 basehttp 3080 18908 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:56,411 basehttp 3080 18908 "GET /admin/sms_app/score/ HTTP/1.1" 200 9822
+INFO 2025-04-17 19:02:56,436 basehttp 3080 18908 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-17 19:02:57,073 basehttp 3080 18908 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 9618
+INFO 2025-04-17 19:02:57,099 basehttp 3080 18908 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-17 19:02:57,557 basehttp 3080 18908 "GET /admin/sms_app/course/ HTTP/1.1" 200 9588
+INFO 2025-04-17 19:02:57,577 basehttp 3080 18908 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-17 19:02:58,759 basehttp 3080 18908 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-17 19:02:58,789 basehttp 3080 24572 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:58,790 basehttp 3080 21040 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:58,793 basehttp 3080 18908 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-17 19:02:58,806 basehttp 3080 18908 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-04-17 19:02:59,563 basehttp 3080 18908 "GET /admin/auth/group/ HTTP/1.1" 200 8669
+INFO 2025-04-17 19:02:59,582 basehttp 3080 18908 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-17 19:03:00,535 basehttp 3080 18908 "GET /admin/auth/user/ HTTP/1.1" 200 11926
+INFO 2025-04-17 19:03:00,987 basehttp 3080 18908 "GET /admin/sms_app/course/ HTTP/1.1" 200 9588
+INFO 2025-04-17 19:03:01,419 basehttp 3080 18908 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 9618
+INFO 2025-04-17 19:03:01,667 basehttp 3080 18908 "GET /admin/sms_app/score/ HTTP/1.1" 200 9822
+INFO 2025-04-17 19:03:01,840 basehttp 3080 18908 "GET /admin/sms_app/student/ HTTP/1.1" 200 10104
+INFO 2025-04-17 19:03:02,042 basehttp 3080 18908 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-17 19:03:03,502 basehttp 3080 18908 "GET /students/add/ HTTP/1.1" 200 12989
+INFO 2025-04-17 19:03:04,863 basehttp 3080 18908 "GET /students/ HTTP/1.1" 200 4548
+INFO 2025-04-17 19:03:05,531 basehttp 3080 18908 "GET /scores/ HTTP/1.1" 200 7773
+INFO 2025-04-17 19:03:06,407 basehttp 3080 18908 "GET /profile/ HTTP/1.1" 200 7558
+INFO 2025-04-17 19:03:13,218 basehttp 3080 18908 "GET /scores/ HTTP/1.1" 200 7773
+INFO 2025-04-17 19:03:15,588 views 3080 18908 User admin logged out
+INFO 2025-04-17 19:03:15,593 basehttp 3080 18908 "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-04-17 19:03:15,607 basehttp 3080 18908 "GET /login/ HTTP/1.1" 200 4278
+INFO 2025-04-17 19:03:18,014 basehttp 3080 18908 "GET /students/ HTTP/1.1" 302 0
+INFO 2025-04-17 19:03:18,026 basehttp 3080 18908 "GET /login/?next=/students/ HTTP/1.1" 200 4278
+INFO 2025-04-17 19:03:18,960 basehttp 3080 18908 "GET /scores/ HTTP/1.1" 302 0
+INFO 2025-04-17 19:03:18,967 basehttp 3080 18908 "GET /login/?next=/scores/ HTTP/1.1" 200 4278
+INFO 2025-04-17 19:03:19,373 basehttp 3080 18908 "GET /scores/ HTTP/1.1" 302 0
+INFO 2025-04-17 19:03:19,385 basehttp 3080 18908 "GET /login/?next=/scores/ HTTP/1.1" 200 4278
+INFO 2025-04-17 19:03:19,546 basehttp 3080 18908 "GET /scores/ HTTP/1.1" 302 0
+INFO 2025-04-17 19:03:19,552 basehttp 3080 18908 "GET /login/?next=/scores/ HTTP/1.1" 200 4278
+INFO 2025-04-17 19:03:19,687 basehttp 3080 18908 "GET /scores/ HTTP/1.1" 302 0
+INFO 2025-04-17 19:03:19,692 basehttp 3080 18908 "GET /login/?next=/scores/ HTTP/1.1" 200 4278
+INFO 2025-04-17 19:03:19,970 basehttp 3080 18908 "GET /students/ HTTP/1.1" 302 0
+INFO 2025-04-17 19:03:19,975 basehttp 3080 18908 "GET /login/?next=/students/ HTTP/1.1" 200 4278
+INFO 2025-04-20 00:53:37,200 autoreload 6976 27892 Watching for file changes with StatReloader
+INFO 2025-04-20 00:54:18,994 autoreload 23024 708 Watching for file changes with StatReloader
+INFO 2025-04-20 00:54:55,384 autoreload 21960 15020 Watching for file changes with StatReloader
+INFO 2025-04-20 00:54:58,036 basehttp 21960 2888 "GET / HTTP/1.1" 302 0
+INFO 2025-04-20 00:54:58,113 basehttp 21960 2888 "GET /login/?next=/ HTTP/1.1" 200 4278
+WARNING 2025-04-20 00:55:00,664 log 21960 2888 Not Found: /favicon.ico
+WARNING 2025-04-20 00:55:00,665 basehttp 21960 2888 "GET /favicon.ico HTTP/1.1" 404 4028
+INFO 2025-04-20 00:55:22,022 views 21960 2888 User admin logged in successfully
+INFO 2025-04-20 00:55:22,022 basehttp 21960 2888 "POST /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-04-20 00:55:22,091 basehttp 21960 2888 "GET / HTTP/1.1" 200 11753
+INFO 2025-04-20 00:55:24,147 basehttp 21960 2888 "GET /students/ HTTP/1.1" 200 4548
+INFO 2025-04-20 00:57:36,194 basehttp 21960 2888 "GET /students/ HTTP/1.1" 200 5609
+ERROR 2025-04-20 00:57:39,284 log 21960 2888 Internal Server Error: /students/123070330230/delete/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: students/confirm_delete.html
+ERROR 2025-04-20 00:57:39,286 basehttp 21960 2888 "GET /students/123070330230/delete/ HTTP/1.1" 500 85136
+INFO 2025-04-20 00:58:07,503 basehttp 21960 2888 "GET /students/123070330230/delete/ HTTP/1.1" 200 4742
+INFO 2025-04-20 00:58:10,757 basehttp 21960 2888 "POST /students/123070330230/delete/ HTTP/1.1" 302 0
+INFO 2025-04-20 00:58:10,766 basehttp 21960 2888 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-20 00:58:14,425 basehttp 21960 2888 "GET /students/123070330207/delete/ HTTP/1.1" 200 4739
+INFO 2025-04-20 00:58:15,642 basehttp 21960 2888 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-20 00:58:16,543 basehttp 21960 2888 "GET /students/123070330231/edit/ HTTP/1.1" 200 13101
+INFO 2025-04-20 00:58:19,112 basehttp 21960 2888 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-20 00:58:20,574 basehttp 21960 2888 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-20 00:58:21,340 basehttp 21960 2888 "GET /scores/ HTTP/1.1" 200 7606
+INFO 2025-04-20 00:58:23,372 basehttp 21960 2888 "GET /scores/3/update/ HTTP/1.1" 200 7381
+INFO 2025-04-20 00:58:24,644 basehttp 21960 2888 "GET /scores/ HTTP/1.1" 200 7606
+INFO 2025-04-20 00:58:26,902 basehttp 21960 2888 "GET /scores/3/delete/ HTTP/1.1" 200 4719
+INFO 2025-04-20 00:58:28,194 basehttp 21960 2888 "POST /scores/3/delete/ HTTP/1.1" 302 0
+INFO 2025-04-20 00:58:28,205 basehttp 21960 2888 "GET /scores/ HTTP/1.1" 200 6828
+INFO 2025-04-20 00:58:36,904 basehttp 21960 2888 "GET /scores/add/ HTTP/1.1" 200 7345
+INFO 2025-04-20 00:59:49,049 autoreload 21960 15020 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 00:59:50,170 autoreload 18904 14964 Watching for file changes with StatReloader
+INFO 2025-04-20 00:59:57,225 autoreload 18904 14964 D:\py_code\student_management\sms_project\sms_project\urls.py changed, reloading.
+INFO 2025-04-20 00:59:58,310 autoreload 13592 18328 Watching for file changes with StatReloader
+INFO 2025-04-20 01:00:06,301 basehttp 13592 4036 "GET /scores/ HTTP/1.1" 200 9122
+INFO 2025-04-20 01:00:08,128 basehttp 13592 4036 "GET /scores/export/ HTTP/1.1" 200 5132
+INFO 2025-04-20 01:00:29,124 basehttp 13592 4036 "GET /scores/template/ HTTP/1.1" 200 5008
+WARNING 2025-04-20 01:00:47,658 views 13592 4036 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:00:47,658 views 13592 4036 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:00:47,719 log 13592 4036 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 614, in import_scores
+    messages.warning(request, _('有 {} 条记录导入失败').format(error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 619, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:00:47,720 basehttp 13592 4036 "POST /scores/import/ HTTP/1.1" 500 87825
+INFO 2025-04-20 01:01:01,947 autoreload 13592 18328 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:01:02,530 autoreload 27088 12240 Watching for file changes with StatReloader
+INFO 2025-04-20 01:01:13,472 autoreload 27088 12240 D:\py_code\student_management\sms_project\sms_app\models.py changed, reloading.
+INFO 2025-04-20 01:01:14,040 autoreload 10608 15604 Watching for file changes with StatReloader
+INFO 2025-04-20 01:01:20,783 autoreload 10608 15604 D:\py_code\student_management\sms_project\sms_app\models.py changed, reloading.
+INFO 2025-04-20 01:01:21,364 autoreload 5320 28628 Watching for file changes with StatReloader
+INFO 2025-04-20 01:01:34,321 autoreload 5320 28628 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-20 01:01:34,893 autoreload 8984 21244 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:01:38,376 views 8984 14364 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:01:38,377 views 8984 14364 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:01:38,430 log 8984 14364 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 614, in import_scores
+    messages.warning(request, _('有 {} 条记录导入失败').format(error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 619, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:01:38,431 basehttp 8984 14364 "POST /scores/import/ HTTP/1.1" 500 87825
+INFO 2025-04-20 01:01:51,549 autoreload 8984 21244 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:01:52,192 autoreload 8880 4368 Watching for file changes with StatReloader
+INFO 2025-04-20 01:01:58,978 autoreload 8880 4368 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:01:59,552 autoreload 27168 25628 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:02:05,548 views 27168 3400 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:02:05,548 views 27168 3400 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:02:05,615 log 27168 3400 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 614, in import_scores
+    messages.warning(request, _('有 {} 条记录导入失败').format(error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 619, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:02:05,617 basehttp 27168 3400 "POST /scores/import/ HTTP/1.1" 500 87825
+INFO 2025-04-20 01:02:08,234 basehttp 27168 3400 "GET /scores/export/ HTTP/1.1" 200 5132
+WARNING 2025-04-20 01:02:14,123 views 27168 3400 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:02:14,123 views 27168 3400 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:02:14,148 log 27168 3400 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 614, in import_scores
+    messages.warning(request, _('有 {} 条记录导入失败').format(error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 619, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:02:14,151 basehttp 27168 3400 "POST /scores/import/ HTTP/1.1" 500 87825
+INFO 2025-04-20 01:04:14,921 autoreload 27168 25628 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-20 01:04:15,500 autoreload 24432 15420 Watching for file changes with StatReloader
+INFO 2025-04-20 01:05:30,079 autoreload 24432 15420 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-20 01:05:30,641 autoreload 14476 18996 Watching for file changes with StatReloader
+INFO 2025-04-20 01:11:55,603 autoreload 14476 18996 D:\py_code\student_management\sms_project\sms_app\models.py changed, reloading.
+INFO 2025-04-20 01:12:01,028 autoreload 5308 6536 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:12:16,947 views 5308 29524 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:12:16,947 views 5308 29524 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:12:17,049 log 5308 29524 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 614, in import_scores
+    messages.warning(request, _('有 {} 条记录导入失败').format(error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 619, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:12:17,051 basehttp 5308 29524 "POST /scores/import/ HTTP/1.1" 500 87825
+INFO 2025-04-20 01:12:37,116 autoreload 5308 6536 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:12:37,758 autoreload 14340 18324 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:12:44,617 views 14340 12304 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:12:44,617 views 14340 12304 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:12:44,671 log 14340 12304 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 614, in import_scores
+    messages.warning(request, _('有 {count} 条记录导入失败').format(count=error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 619, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:12:44,681 basehttp 14340 12304 "POST /scores/import/ HTTP/1.1" 500 87880
+INFO 2025-04-20 01:12:58,845 autoreload 14340 18324 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:12:59,421 autoreload 10752 26888 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:13:06,755 views 10752 16416 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:13:06,755 views 10752 16416 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:13:06,792 log 10752 16416 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 614, in import_scores
+    messages.warning(request, _('有 %(count)d 条记录导入失败') % {'count': error_count})
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 619, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:13:06,802 basehttp 10752 16416 "POST /scores/import/ HTTP/1.1" 500 87935
+INFO 2025-04-20 01:13:21,205 autoreload 10752 26888 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:13:21,808 autoreload 17696 20948 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:13:27,483 views 17696 16768 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:13:27,483 views 17696 16768 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:13:27,533 log 17696 16768 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 615, in import_scores
+    messages.warning(request, format_lazy(_('有 {count} 条记录导入失败'), count=error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 620, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:13:27,535 basehttp 17696 16768 "POST /scores/import/ HTTP/1.1" 500 87910
+INFO 2025-04-20 01:13:30,377 basehttp 17696 16768 "GET /scores/export/ HTTP/1.1" 200 5132
+WARNING 2025-04-20 01:13:33,203 views 17696 16768 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:13:33,203 views 17696 16768 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:13:33,231 log 17696 16768 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 615, in import_scores
+    messages.warning(request, format_lazy(_('有 {count} 条记录导入失败'), count=error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 620, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:13:33,234 basehttp 17696 16768 "POST /scores/import/ HTTP/1.1" 500 87910
+INFO 2025-04-20 01:14:04,648 basehttp 17696 16768 "GET /scores/ HTTP/1.1" 200 9122
+INFO 2025-04-20 01:14:05,415 basehttp 17696 16768 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-20 01:14:06,622 basehttp 17696 16768 "GET / HTTP/1.1" 200 11065
+INFO 2025-04-20 01:14:16,575 basehttp 17696 16768 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-20 01:14:17,287 basehttp 17696 16768 "GET /scores/ HTTP/1.1" 200 9122
+WARNING 2025-04-20 01:14:22,475 views 17696 16768 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:14:22,481 views 17696 16768 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:14:22,502 log 17696 16768 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 615, in import_scores
+    messages.warning(request, format_lazy(_('有 {count} 条记录导入失败'), count=error_count))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 620, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:14:22,503 basehttp 17696 16768 "POST /scores/import/ HTTP/1.1" 500 88060
+INFO 2025-04-20 01:14:44,351 autoreload 17696 20948 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:14:44,953 autoreload 7216 28704 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:14:52,722 views 7216 12388 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:14:52,722 views 7216 12388 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:14:52,790 log 7216 12388 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 615, in import_scores
+    messages.warning(request, _('有') + ' ' + str(error_count) + ' ' + _('条记录导入失败'))
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 620, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:14:52,798 basehttp 7216 12388 "POST /scores/import/ HTTP/1.1" 500 88200
+INFO 2025-04-20 01:15:04,923 autoreload 7216 28704 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:15:05,549 autoreload 23904 22660 Watching for file changes with StatReloader
+INFO 2025-04-20 01:15:07,049 autoreload 23904 22660 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:15:07,580 autoreload 26284 6912 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:15:10,959 views 26284 2448 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:15:10,959 views 26284 2448 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:15:11,028 log 26284 2448 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 615, in import_scores
+    messages.warning(request, f"{_('有')} {error_count} {_('条记录导入失败')}")
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 620, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:15:11,028 basehttp 26284 2448 "POST /scores/import/ HTTP/1.1" 500 88090
+WARNING 2025-04-20 01:15:49,989 views 26284 2448 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:15:49,989 views 26284 2448 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:15:50,014 log 26284 2448 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 615, in import_scores
+    messages.warning(request, f"{_('有')} {error_count} {_('条记录导入失败')}")
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 620, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:15:50,015 basehttp 26284 2448 "POST /scores/import/ HTTP/1.1" 500 88090
+INFO 2025-04-20 01:16:13,807 autoreload 26284 6912 D:\py_code\student_management\sms_project\sms_project\settings.py changed, reloading.
+INFO 2025-04-20 01:16:14,444 autoreload 23948 20016 Watching for file changes with StatReloader
+INFO 2025-04-20 01:16:15,944 autoreload 23948 20016 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:16:16,455 autoreload 2944 17372 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:16:23,499 views 2944 12512 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:16:23,499 views 2944 12512 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:16:23,544 log 2944 12512 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 615, in import_scores
+    messages.warning(request, f"{_('有')} {error_count} {_('条记录导入失败')}")
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 620, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:16:23,554 basehttp 2944 12512 "POST /scores/import/ HTTP/1.1" 500 88090
+INFO 2025-04-20 01:16:43,083 autoreload 2944 17372 D:\py_code\student_management\sms_project\sms_app\models.py changed, reloading.
+INFO 2025-04-20 01:16:43,669 autoreload 18828 18084 Watching for file changes with StatReloader
+INFO 2025-04-20 01:16:54,672 autoreload 18828 18084 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:16:55,235 autoreload 23512 12864 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:17:02,998 views 23512 19064 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:17:02,998 views 23512 19064 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:17:03,058 log 23512 19064 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 629, in import_scores
+    messages.warning(request, f"{_('有')} {error_count} {_('条记录导入失败')}")
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 634, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:17:03,068 basehttp 23512 19064 "POST /scores/import/ HTTP/1.1" 500 89774
+WARNING 2025-04-20 01:17:17,496 views 23512 19064 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:17:17,496 views 23512 19064 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:17:17,519 log 23512 19064 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 629, in import_scores
+    messages.warning(request, f"{_('有')} {error_count} {_('条记录导入失败')}")
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 634, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:17:17,519 basehttp 23512 19064 "POST /scores/import/ HTTP/1.1" 500 89774
+INFO 2025-04-20 01:19:27,279 autoreload 23512 12864 D:\py_code\student_management\sms_project\sms_app\models.py changed, reloading.
+INFO 2025-04-20 01:19:27,925 autoreload 26308 28812 Watching for file changes with StatReloader
+INFO 2025-04-20 01:19:39,954 autoreload 26308 28812 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-20 01:19:40,501 autoreload 11880 21980 Watching for file changes with StatReloader
+WARNING 2025-04-20 01:20:09,721 views 11880 27748 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:20:09,721 views 11880 27748 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:20:09,766 log 11880 27748 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 629, in import_scores
+    messages.warning(request, f"{_('有')} {error_count} {_('条记录导入失败')}")
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 634, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:20:09,770 basehttp 11880 27748 "POST /scores/import/ HTTP/1.1" 500 89774
+WARNING 2025-04-20 01:21:09,248 views 11880 27748 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:21:09,253 views 11880 27748 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:21:09,275 log 11880 27748 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 629, in import_scores
+    messages.warning(request, f"{_('有')} {error_count} {_('条记录导入失败')}")
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 634, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:21:09,277 basehttp 11880 27748 "POST /scores/import/ HTTP/1.1" 500 89774
+INFO 2025-04-20 01:21:28,483 basehttp 11880 27748 "GET /scores/ HTTP/1.1" 200 9122
+INFO 2025-04-20 01:21:31,963 basehttp 11880 27748 "GET /admin HTTP/1.1" 301 0
+INFO 2025-04-20 01:21:32,006 basehttp 11880 24732 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-20 01:21:32,023 basehttp 11880 24732 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2025-04-20 01:21:32,032 basehttp 11880 12240 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2025-04-20 01:21:32,032 basehttp 11880 10976 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2025-04-20 01:21:32,032 basehttp 11880 5956 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-04-20 01:21:32,032 basehttp 11880 14572 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2025-04-20 01:21:32,044 basehttp 11880 24732 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-20 01:21:32,045 basehttp 11880 14572 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-04-20 01:21:32,048 basehttp 11880 5956 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-04-20 01:21:32,053 basehttp 11880 24772 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2025-04-20 01:21:34,980 basehttp 11880 24772 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 9618
+INFO 2025-04-20 01:21:34,991 basehttp 11880 24772 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2025-04-20 01:21:35,014 basehttp 11880 5956 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-20 01:21:35,014 basehttp 11880 10976 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2025-04-20 01:21:35,014 basehttp 11880 24732 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-20 01:21:35,023 basehttp 11880 24772 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2025-04-20 01:21:35,023 basehttp 11880 12240 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2025-04-20 01:21:35,033 basehttp 11880 24732 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-20 01:21:35,035 basehttp 11880 5956 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-20 01:21:35,049 basehttp 11880 14572 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2025-04-20 01:21:35,063 basehttp 11880 14572 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-04-20 01:21:35,068 basehttp 11880 10976 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2025-04-20 01:21:35,081 basehttp 11880 10976 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-04-20 01:21:36,048 basehttp 11880 10976 "GET /admin/sms_app/classinformation/01/change/ HTTP/1.1" 200 11476
+INFO 2025-04-20 01:21:36,063 basehttp 11880 10976 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2025-04-20 01:21:36,065 basehttp 11880 10976 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2025-04-20 01:21:36,072 basehttp 11880 5956 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-20 01:21:36,076 basehttp 11880 14572 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-04-20 01:21:36,084 basehttp 11880 5956 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-04-20 01:21:37,820 basehttp 11880 5956 "GET /admin/sms_app/classinformation/ HTTP/1.1" 200 9618
+INFO 2025-04-20 01:21:38,177 basehttp 11880 5956 "GET /admin/ HTTP/1.1" 200 8818
+WARNING 2025-04-20 01:22:08,997 views 11880 5956 Error importing score: Student matching query does not exist.
+ERROR 2025-04-20 01:22:08,997 views 11880 5956 Error importing scores: 'int' object is not callable
+ERROR 2025-04-20 01:22:09,024 log 11880 5956 Internal Server Error: /scores/import/
+Traceback (most recent call last):
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 629, in import_scores
+    messages.warning(request, f"{_('有')} {error_count} {_('条记录导入失败')}")
+TypeError: 'int' object is not callable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\.venv\lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+  File "D:\py_code\student_management\sms_project\sms_app\views.py", line 634, in import_scores
+    messages.error(request, _('导入成绩失败，请检查文件格式是否正确'))
+TypeError: 'int' object is not callable
+ERROR 2025-04-20 01:22:09,031 basehttp 11880 5956 "POST /scores/import/ HTTP/1.1" 500 89774
+INFO 2025-04-22 23:41:50,031 autoreload 15524 16460 Watching for file changes with StatReloader
+INFO 2025-04-22 23:41:57,193 basehttp 15524 7600 "GET / HTTP/1.1" 200 11065
+WARNING 2025-04-22 23:41:57,606 log 15524 7600 Not Found: /favicon.ico
+WARNING 2025-04-22 23:41:57,606 basehttp 15524 7600 "GET /favicon.ico HTTP/1.1" 404 4442
+INFO 2025-04-22 23:41:59,204 basehttp 15524 7600 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-22 23:42:00,710 basehttp 15524 7600 "GET /scores/ HTTP/1.1" 200 9122
+INFO 2025-04-22 23:42:04,359 basehttp 15524 7600 "GET /scores/template/ HTTP/1.1" 200 5007
+WARNING 2025-04-22 23:42:36,429 views 15524 7600 Error importing score: Student matching query does not exist.
+INFO 2025-04-22 23:42:36,429 basehttp 15524 7600 "POST /scores/import/ HTTP/1.1" 302 0
+INFO 2025-04-22 23:42:36,443 basehttp 15524 7600 "GET /scores/ HTTP/1.1" 200 9441
+WARNING 2025-04-22 23:42:48,965 views 15524 7600 Error importing score: Student matching query does not exist.
+INFO 2025-04-22 23:42:48,965 basehttp 15524 7600 "POST /scores/import/ HTTP/1.1" 302 0
+INFO 2025-04-22 23:42:48,985 basehttp 15524 7600 "GET /scores/ HTTP/1.1" 200 9441
+INFO 2025-04-22 23:43:34,714 basehttp 15524 7600 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-22 23:43:34,731 basehttp 15524 7600 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:34,731 basehttp 15524 7600 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:34,731 basehttp 15524 24840 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:34,731 basehttp 15524 14624 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:34,731 basehttp 15524 25712 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:34,740 basehttp 15524 24800 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:34,742 basehttp 15524 29632 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:34,745 basehttp 15524 29632 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:34,745 basehttp 15524 24800 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,220 basehttp 15524 24800 "GET /admin/sms_app/student/ HTTP/1.1" 200 9856
+INFO 2025-04-22 23:43:36,243 basehttp 15524 24840 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,243 basehttp 15524 25712 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,244 basehttp 15524 7600 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,244 basehttp 15524 14624 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,246 basehttp 15524 24800 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,248 basehttp 15524 24840 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,248 basehttp 15524 25712 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,248 basehttp 15524 7600 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,248 basehttp 15524 14624 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,262 basehttp 15524 29632 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-22 23:43:36,262 basehttp 15524 14624 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,274 basehttp 15524 25336 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-04-22 23:43:36,277 basehttp 15524 10392 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2025-04-22 23:43:36,280 basehttp 15524 7152 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-04-22 23:43:36,282 basehttp 15524 16884 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2025-04-22 23:43:36,285 basehttp 15524 29632 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-04-22 23:43:36,289 basehttp 15524 25336 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-04-22 23:43:36,289 basehttp 15524 9820 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2025-04-22 23:43:36,296 basehttp 15524 7152 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2025-04-22 23:43:36,299 basehttp 15524 16884 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-04-22 23:43:36,305 basehttp 15524 25336 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-22 23:43:36,314 basehttp 15524 17164 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2025-04-22 23:43:36,315 basehttp 15524 9820 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-04-22 23:43:36,337 basehttp 15524 10392 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2025-04-22 23:43:59,414 basehttp 15524 29632 "GET / HTTP/1.1" 200 11065
+INFO 2025-04-22 23:44:00,969 basehttp 15524 29632 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-22 23:44:02,003 basehttp 15524 29632 "GET /scores/ HTTP/1.1" 200 9122
+WARNING 2025-04-22 23:44:06,983 views 15524 29632 Error importing score: Course matching query does not exist.
+INFO 2025-04-22 23:44:06,984 basehttp 15524 29632 "POST /scores/import/ HTTP/1.1" 302 0
+INFO 2025-04-22 23:44:06,997 basehttp 15524 29632 "GET /scores/ HTTP/1.1" 200 9441
+INFO 2025-04-22 23:44:57,348 autoreload 15524 16460 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-22 23:44:57,962 autoreload 24308 7280 Watching for file changes with StatReloader
+INFO 2025-04-22 23:45:16,156 basehttp 24308 24952 "POST /scores/import/ HTTP/1.1" 302 0
+INFO 2025-04-22 23:45:16,182 basehttp 24308 24952 "GET /scores/ HTTP/1.1" 200 9478
+INFO 2025-04-22 23:45:34,575 basehttp 24308 24952 "GET /admin/ HTTP/1.1" 200 8818
+INFO 2025-04-22 23:45:36,591 basehttp 24308 24952 "GET /admin/sms_app/course/ HTTP/1.1" 200 9588
+INFO 2025-04-22 23:45:36,622 basehttp 24308 24952 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-22 23:45:37,670 basehttp 24308 24952 "GET /admin/sms_app/course/01/change/ HTTP/1.1" 200 11450
+INFO 2025-04-22 23:45:37,685 basehttp 24308 24952 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-04-22 23:45:37,692 basehttp 24308 24952 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-04-22 23:45:37,693 basehttp 24308 18312 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:45:37,695 basehttp 24308 4660 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2025-04-22 23:45:37,697 basehttp 24308 18312 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-04-22 23:46:10,634 basehttp 24308 18312 "GET / HTTP/1.1" 200 11065
+INFO 2025-04-22 23:46:11,842 basehttp 24308 18312 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-22 23:46:12,152 basehttp 24308 18312 "GET /scores/ HTTP/1.1" 200 9122
+INFO 2025-04-22 23:46:16,480 basehttp 24308 18312 "POST /scores/import/ HTTP/1.1" 302 0
+INFO 2025-04-22 23:46:16,495 basehttp 24308 18312 "GET /scores/ HTTP/1.1" 200 9478
+INFO 2025-04-22 23:47:26,722 autoreload 24308 7280 D:\py_code\student_management\sms_project\sms_app\views.py changed, reloading.
+INFO 2025-04-22 23:47:27,322 autoreload 14196 28936 Watching for file changes with StatReloader
+INFO 2025-04-22 23:47:45,275 basehttp 14196 18944 "POST /scores/import/ HTTP/1.1" 302 0
+INFO 2025-04-22 23:47:45,303 basehttp 14196 18944 "GET /scores/ HTTP/1.1" 200 10222

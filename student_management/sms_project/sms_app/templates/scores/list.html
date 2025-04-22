@@ -35,7 +35,46 @@
                 </div>
                 <button type="submit" class="btn btn-primary mb-2">查询</button>
                 <a href="{% url 'add_score' %}" class="btn btn-success mb-2 ml-2">添加成绩</a>
+                <a href="{% url 'export_scores' %}" class="btn btn-info mb-2 ml-2">
+                    <i class="bi bi-download"></i> 导出成绩
+                </a>
+                <button type="button" class="btn btn-warning mb-2 ml-2" data-bs-toggle="modal" data-bs-target="#importModal">
+                    <i class="bi bi-upload"></i> 导入成绩
+                </button>
             </form>
+        </div>
+    </div>
+
+    <!-- 导入成绩模态框 -->
+    <div class="modal fade" id="importModal" tabindex="-1" aria-labelledby="importModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="importModalLabel">导入成绩</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form method="post" enctype="multipart/form-data" action="{% url 'import_scores' %}">
+                        {% csrf_token %}
+                        <div class="mb-3">
+                            <label for="scoreFile" class="form-label">选择Excel文件</label>
+                            <input type="file" class="form-control" id="scoreFile" name="score_file" accept=".xlsx,.xls" required>
+                        </div>
+                        <div class="mb-3">
+                            <a href="{% url 'download_template' %}" class="btn btn-sm btn-outline-primary">
+                                <i class="bi bi-download"></i> 下载模板
+                            </a>
+                        </div>
+                        <div class="alert alert-info">
+                            <small>
+                                <i class="bi bi-info-circle"></i> 请确保Excel文件格式正确，包含以下列：<br>
+                                学号、课程编号、平时成绩、期中成绩、期末成绩
+                            </small>
+                        </div>
+                        <button type="submit" class="btn btn-primary">开始导入</button>
+                    </form>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -70,7 +109,7 @@
                             <td>{{ score.MidtermGrade }}</td>
                             <td>{{ score.FinalGrade }}</td>
                             <td>{{ score.total_grade|floatformat:1 }}</td>
-                            <td>{{ score.get_grade_level }}</td>
+                            <td>{{ score.grade_level }}</td>
                             <td>
                                 <a href="{% url 'update_score' score.pk %}" class="btn btn-sm btn-primary">编辑</a>
                                 <a href="{% url 'delete_score' score.pk %}" class="btn btn-sm btn-danger" onclick="return confirm('确定要删除这条成绩记录吗？')">删除</a>

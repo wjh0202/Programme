@@ -10,6 +10,7 @@
                 <th>性别</th>
                 <th>年龄</th>
                 <th>班级</th>
+                <th>操作</th>
             </tr>
         </thead>
         <tbody>
@@ -21,11 +22,15 @@
                         <td>{{ student.Gender }}</td>
                         <td>{{ student.Age }}</td>
                         <td>{{ student.Class.ClassName|default:"未分配" }}</td>
+                        <td>
+                            <a href="{% url 'edit_student' student.StudentID %}" class="btn btn-sm btn-primary">编辑</a>
+                            <a href="{% url 'delete_student' student.StudentID %}" class="btn btn-sm btn-danger" onclick="return confirm('确定要删除学生 {{ student.Name }} 吗？')">删除</a>
+                        </td>
                     </tr>
                 {% endfor %}
             {% else %}
                 <tr>
-                    <td colspan="5" class="text-center">暂无学生数据</td>
+                    <td colspan="6" class="text-center">暂无学生数据</td>
                 </tr>
             {% endif %}
         </tbody>

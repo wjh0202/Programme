@@ -89,18 +89,28 @@ class Score(models.Model):
     def __str__(self):
         return f"{self.Student.Name} - {self.Course.CourseName}"
 
+    @property
     def total_grade(self):
-        return round(self.RegularGrade * 0.3 + self.MidtermGrade * 0.3 + self.FinalGrade * 0.4, 2)
+        """计算总成绩"""
+        try:
+            return round(self.RegularGrade * 0.3 + self.MidtermGrade * 0.3 + self.FinalGrade * 0.4, 2)
+        except (TypeError, AttributeError):
+            return 0.0
 
-    def get_grade_level(self):
-        total = self.total_grade()
-        if total >= 90:
-            return 'A'
-        elif total >= 80:
-            return 'B'
-        elif total >= 70:
-            return 'C'
-        elif total >= 60:
-            return 'D'
-        else:
+    @property
+    def grade_level(self):
+        """获取成绩等级"""
+        try:
+            total = self.total_grade
+            if total >= 90:
+                return 'A'
+            elif total >= 80:
+                return 'B'
+            elif total >= 70:
+                return 'C'
+            elif total >= 60:
+                return 'D'
+            else:
+                return 'F'
+        except (TypeError, AttributeError):
             return 'F'
