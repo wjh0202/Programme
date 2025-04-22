@@ -2737,3 +2737,12 @@ INFO 2025-04-22 23:47:26,722 autoreload 24308 7280 D:\py_code\student_management
 INFO 2025-04-22 23:47:27,322 autoreload 14196 28936 Watching for file changes with StatReloader
 INFO 2025-04-22 23:47:45,275 basehttp 14196 18944 "POST /scores/import/ HTTP/1.1" 302 0
 INFO 2025-04-22 23:47:45,303 basehttp 14196 18944 "GET /scores/ HTTP/1.1" 200 10222
+INFO 2025-04-23 00:03:10,457 autoreload 7492 26280 Watching for file changes with StatReloader
+INFO 2025-04-23 00:03:19,556 basehttp 7492 20696 "GET / HTTP/1.1" 200 11403
+WARNING 2025-04-23 00:03:19,812 log 7492 20696 Not Found: /favicon.ico
+WARNING 2025-04-23 00:03:19,812 basehttp 7492 20696 "GET /favicon.ico HTTP/1.1" 404 4442
+INFO 2025-04-23 00:03:21,300 basehttp 7492 20696 "GET /students/ HTTP/1.1" 200 4979
+INFO 2025-04-23 00:03:21,890 basehttp 7492 20696 "GET /scores/ HTTP/1.1" 200 9900
+INFO 2025-04-23 00:03:29,455 basehttp 7492 20696 "POST /scores/import/ HTTP/1.1" 302 0
+INFO 2025-04-23 00:03:29,464 basehttp 7492 20696 "GET /scores/ HTTP/1.1" 200 10222
+INFO 2025-04-23 00:03:32,620 basehttp 7492 20696 "GET /scores/export/ HTTP/1.1" 200 5179
